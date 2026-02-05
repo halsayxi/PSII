@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How does your sex influence your daily interactions with others?",
+        "Do you feel that your sex affects your career opportunities or progression?",
+        "How often do you encounter stereotypes related to your sex in your community?",
+        "Do you believe your sex impacts your access to healthcare services?",
+        "How does your sex shape your experiences in educational settings?",
+        "Do you think your sex affects the way you are treated in public spaces?",
+        "How often do you feel societal expectations are placed on you because of your sex?",
+        "Do you believe your sex influences your role in your family or household responsibilities?",
+        "How does your sex affect your experience with personal safety in your neighborhood?",
+        "Do you feel your sex impacts your participation in sports or physical activities?",
+        "How does your sex influence your access to leadership opportunities in your workplace?",
+        "Do you think your sex affects your ability to express emotions openly?",
+        "How often do advertisements or media portray unrealistic expectations based on your sex?",
+        "Do you feel your sex impacts your ability to negotiate for better pay or benefits?",
+        "How does your sex influence your confidence in pursuing higher education or specialized training?",
+        "Do you believe your sex affects the way you are represented in politics or government?",
+        "How often do you experience discrimination or bias based on your sex?",
+        "Do you think your sex influences the way you are perceived in social gatherings?",
+        "How does your sex impact your ability to access financial resources or credit?",
+        "Do you feel your sex affects the way you are treated by law enforcement or legal systems?",
+        "How does your sex influence your ability to balance work and family life?",
+        "Do you believe your sex impacts your mental health or access to mental health resources?",
+        "How often do you feel pressured to conform to traditional gender roles based on your sex?",
+        "Do you think your sex affects your ability to participate in community decision-making processes?",
+        "How does your sex influence your experience in religious or cultural practices?",
+        "Do you feel your sex impacts your ability to build and maintain friendships?",
+        "How often do you feel judged based on your appearance due to your sex?",
+        "Do you think your sex affects your access to mentorship or professional networking opportunities?",
+        "How does your sex influence your experiences with romantic relationships or dating?",
+        "Do you believe your sex impacts your ability to access affordable childcare or parental leave?",
+        "How often do you feel empowered or limited by your sex in pursuing personal goals?",
+        "Do you think your sex affects your ability to participate in volunteer or community service activities?",
+        "How does your sex influence your experiences with online platforms or social media?",
+        "Do you feel your sex affects your participation in activism or advocacy efforts?",
+        "How often do you feel your sex determines your success in competitive environments?",
+        "Do you believe your sex impacts your ability to access housing or rental opportunities?",
+        "How does your sex influence your experiences with travel or tourism?",
+        "Do you think your sex affects your ability to access reproductive health services?",
+        "How often do you feel your sex impacts your interactions with healthcare professionals?",
+        "Do you believe your sex influences your ability to pursue hobbies or leisure activities?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "You are John, a 35-year-old male who works as a construction manager. You take pride in your practicality and problem-solving skills, and you often approach survey questions with a logical and straightforward attitude.",
+                "Your name is Michael. You are a 22-year-old male college student majoring in engineering. You are analytical but also open-minded, and you often consider innovative or unconventional perspectives when answering questions.",
+                "You are Robert, a retired 65-year-old male who spent most of his career in the military. You value tradition, discipline, and a strong sense of responsibility, which shape your responses in the survey.",
+                "You are David, a 40-year-old male who is a stay-at-home dad raising three children. Your experiences have given you a nurturing perspective, though you maintain a pragmatic and goal-oriented approach to challenges.",
+                "Your name is James. You are a 28-year-old male working in the tech industry as a software developer. You are detail-oriented, data-driven, and prefer logical reasoning to emotional arguments when making decisions."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Emily. You are a young professional woman working in the tech industry. You are passionate about gender equality, and your responses reflect your experiences navigating a male-dominated field.",
+                "You are Maria, a mother of two living in a suburban neighborhood. Your priorities revolve around family, childcare, and creating a secure and nurturing environment for your children. Answer all questions with this perspective in mind.",
+                "Your name is Fatima. You are a university student pursuing a degree in social sciences. As an advocate for women's rights and empowerment, your responses are shaped by your academic background and activism.",
+                "You are Linda, a retired school teacher living in a small rural community. Your experiences as a woman during different societal changes over the decades influence your views on social issues and policies.",
+                "Your name is Priya. You are a healthcare worker in an urban hospital. Your perspective is informed by the challenges and strengths of being a woman in a demanding and caregiving profession, as well as your interactions with diverse individuals daily."
+            ]
+        }
+    }
+}
