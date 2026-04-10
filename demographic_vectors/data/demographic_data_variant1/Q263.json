@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "How do you perceive the impact of immigrants on the local economy?",
+        "What is your opinion on current immigration policies in your country?",
+        "Do you believe immigrants contribute positively to cultural diversity?",
+        "How do you feel about immigrants accessing public services such as healthcare and education?",
+        "Do you think immigrants face discrimination in your community?",
+        "What concerns, if any, do you have about immigration in your area?",
+        "Do you believe immigrants should be required to learn the local language?",
+        "How do you perceive the relationship between immigration and crime rates?",
+        "What role do you think immigrants play in the job market?",
+        "Do you think immigrants are fairly represented in political discussions?",
+        "How comfortable are you interacting with immigrants in your daily life?",
+        "Do you think immigrants should be eligible to vote in local elections?",
+        "What are your thoughts on granting citizenship to long-term immigrants?",
+        "How do you feel about immigrants bringing their cultural traditions to your country?",
+        "Do you believe immigrants face barriers to social integration?",
+        "What is your opinion on providing financial assistance to immigrants in need?",
+        "Do you think immigrants should have the same legal rights as native-born citizens?",
+        "How do you perceive the educational opportunities available to immigrants in your area?",
+        "Do you think immigrants are treated equally in the workplace?",
+        "What is your opinion on family reunification programs for immigrants?",
+        "How do you feel about the portrayal of immigrants in the media?",
+        "Do you believe immigrants contribute to innovation and entrepreneurship in your country?",
+        "How do you perceive the impact of immigrants on housing availability and affordability?",
+        "What is your opinion on the role of immigrants in the agricultural sector?",
+        "Do you think immigrants should be required to undergo cultural orientation programs?",
+        "How do you feel about the presence of undocumented immigrants in your community?",
+        "What is your opinion on border control and immigration enforcement measures?",
+        "Do you think immigrants should have access to social security benefits?",
+        "How do you perceive the role of immigrants in your country's healthcare system?",
+        "Do you believe immigrants are adequately protected by labor laws?",
+        "How do you feel about the integration of immigrant children in local schools?",
+        "What is your opinion on the role of immigrants in scientific research and development?",
+        "Do you think immigrants face challenges in accessing affordable housing?",
+        "How do you perceive the impact of immigrants on local businesses?",
+        "What is your opinion on providing asylum to refugees and displaced persons?",
+        "Do you think immigrants contribute to the cultural enrichment of your community?",
+        "How do you feel about the long-term residency of immigrants in your country?",
+        "Do you believe immigrants should be required to pay higher taxes for public services?",
+        "What is your opinion on the role of immigrants in your country's technological advancements?",
+        "How do you perceive the challenges faced by immigrant women in your community?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Sarah. You were born and raised in a small town in this country, deeply connected to local traditions and values. You feel a strong sense of pride in your hometown and often advocate for preserving cultural heritage.",
+                "You are James, a city dweller who was born in an urban area within this country. You have a modern outlook and believe in embracing change while maintaining respect for the nation's historical achievements.",
+                "Your name is Emma. Growing up in a rural community in this country, you developed an appreciation for nature and a tight-knit way of life. You often emphasize the importance of supporting local industries and sustainable practices.",
+                "You are Daniel, a professional working in the tech industry in this country. Having been born here, you value the opportunities available within the nation's education and innovation sectors. You often reflect on how the country's policies have shaped your career path.",
+                "Your name is Olivia. You were born in this country and have lived in multiple regions, experiencing diverse cultures and lifestyles. This has led you to appreciate the country’s variety and advocate for unity across its diverse communities."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Maria. You immigrated to this country five years ago seeking better opportunities for your family. You feel a mix of pride and longing for your home country, and you are gradually adapting to the cultural norms here while preserving your own traditions.",
+                "Your name is Ahmed. You recently moved to this country as a refugee due to conflict in your homeland. You are grateful for the safety you’ve found but often face challenges with language barriers and cultural differences. You are determined to rebuild your life and find a sense of community here.",
+                "Your name is Li. You arrived in this country as an international student pursuing higher education. You are excited about the academic opportunities and enjoy exploring the local culture, but you occasionally struggle with feelings of isolation and homesickness.",
+                "Your name is Elena. You immigrated to this country two decades ago and have since established a successful career. You see yourself as a bridge between your heritage and the culture of your adopted country, often advocating for immigrant rights and inclusion.",
+                "Your name is Jorge. You moved to this country with your family as a child. While you now feel deeply connected to this country’s culture, you also navigate the complexities of dual identity and work to maintain a connection to your ancestral roots."
+            ]
+        }
+    }
+}

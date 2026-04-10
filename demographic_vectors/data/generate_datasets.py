@@ -1,9 +1,9 @@
 import json
 import os
+import argparse
 from openai import OpenAI
 from tqdm import tqdm
 import httpx
-from prompts_pollsim import PROMPTS
 
 
 FEATURE_DATA = {
@@ -151,14 +151,17 @@ FEATURE_DATA = {
     },
 }
 
-
 API_KEY = ""
 BASE_URL = ""
-MODEL_TO_USE = "gpt-4o"
-OUTPUT_DIR = "demographic_data"
-CATEGORY_QUESTIONS_CACHE = "question_cache"
-QUESTIONS_PROMPT = PROMPTS["generate_questions"]
-INSTRUCTIONS_PROMPT = PROMPTS["generate_instructions"]
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model-name", type=str, default="gpt-4o")
+    parser.add_argument("--output-dir", type=str, default="demographic_data")
+    parser.add_argument("--cache-dir", type=str, default="question_cache")
+    parser.add_argument("--prompts-template", type=str, default="prompts_pollsim")
+    parser.add_argument("--seed", type=int, default=None)
+    return parser.parse_args()
 
 
 def get_openai_client():
@@ -172,26 +175,46 @@ def get_openai_client():
     )
 
 
-def generate_with_api(prompt_text, system_role, temperature, model_name=MODEL_TO_USE):
-    client = get_openai_client()
+def generate_with_api(
+    prompt_text,
+    system_role,
+    temperature,
+    client,
+    model_name,
+    seed=None,
+):
     try:
-        response = client.chat.completions.create(
-            model=model_name,
-            messages=[
+        request_kwargs = {
+            "model": model_name,
+            "messages": [
                 {"role": "system", "content": system_role},
                 {"role": "user", "content": prompt_text},
             ],
-            response_format={"type": "json_object"},
-            temperature=temperature,
-        )
+            "response_format": {"type": "json_object"},
+            "temperature": temperature,
+        }
+
+        if seed is not None:
+            request_kwargs["seed"] = seed
+
+        response = client.chat.completions.create(**request_kwargs)
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"API Error: {e}")
         return None
 
 
-def generate_and_cache_questions(q_code, feature_category):
-    cache_path = os.path.join(CATEGORY_QUESTIONS_CACHE, f"{q_code}_questions.json")
+def generate_and_cache_questions(
+    q_code,
+    feature_category,
+    client,
+    cache_dir,
+    model_name,
+    questions_prompt,
+    seed=None,
+):
+    cache_name = f"{q_code}_questions.json" if seed is None else f"{q_code}_questions_seed{seed}.json"
+    cache_path = os.path.join(cache_dir, cache_name)
 
     if os.path.exists(cache_path):
         with open(cache_path, "r", encoding="utf-8") as f:
@@ -201,14 +224,21 @@ def generate_and_cache_questions(q_code, feature_category):
         f"\n--- Stage 1.1: Generating 40 Questions for Category: {feature_category} ({q_code}) ---"
     )
 
-    prompt_text = QUESTIONS_PROMPT.format(FEATURE_CATEGORY=feature_category)
+    prompt_text = questions_prompt.format(FEATURE_CATEGORY=feature_category)
     system_role = "You are a professional social researcher. Your task is to generate 40 survey questions relevant to the given category and return a JSON object."
 
-    generated_data = generate_with_api(prompt_text, system_role, 0.5)
+    generated_data = generate_with_api(
+        prompt_text=prompt_text,
+        system_role=system_role,
+        temperature=0.5,
+        client=client,
+        model_name=model_name,
+        seed=seed,
+    )
 
     if generated_data and "questions" in generated_data:
         questions = generated_data["questions"]
-        os.makedirs(CATEGORY_QUESTIONS_CACHE, exist_ok=True)
+        os.makedirs(cache_dir, exist_ok=True)
         with open(cache_path, "w", encoding="utf-8") as f:
             json.dump({"questions": questions}, f, ensure_ascii=False, indent=4)
         print(f"Successfully cached questions for {q_code}.")
@@ -218,27 +248,74 @@ def generate_and_cache_questions(q_code, feature_category):
         return None
 
 
-def generate_demographic_instructions(feature_category, feature_value):
-    prompt_text = INSTRUCTIONS_PROMPT.format(
+def generate_demographic_instructions(
+    feature_category,
+    feature_value,
+    client,
+    model_name,
+    instructions_prompt,
+    seed=None,
+):
+    prompt_text = instructions_prompt.format(
         FEATURE_CATEGORY=feature_category, FEATURE_VALUE=feature_value
     )
     system_role = "You are a professional instruction designer. Your task is to strictly follow the instructions and output only a single JSON object."
 
-    generated_data = generate_with_api(prompt_text, system_role, 0.7)
+    generated_data = generate_with_api(
+        prompt_text=prompt_text,
+        system_role=system_role,
+        temperature=0.7,
+        client=client,
+        model_name=model_name,
+        seed=seed,
+    )
     if generated_data and "instructions" in generated_data:
         return generated_data["instructions"]
     return None
 
 
 def main():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(CATEGORY_QUESTIONS_CACHE, exist_ok=True)
+    args = parse_args()
+
+    model_name = args.model_name
+    output_dir = args.output_dir
+    cache_dir = args.cache_dir
+    seed = args.seed
+    prompts_template = args.prompts_template
+
+    import importlib
+    module = importlib.import_module(f".{prompts_template}", package=__package__)
+    PROMPTS = module.PROMPTS
+    QUESTIONS_PROMPT = PROMPTS["generate_questions"]
+    INSTRUCTIONS_PROMPT = PROMPTS["generate_instructions"]
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(base_dir, output_dir)
+    cache_dir = os.path.join(base_dir, cache_dir)
+
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(cache_dir, exist_ok=True)
+
+    client = get_openai_client()
 
     category_questions_cache = {}
     print("\n--- Stage 1: Generating and Caching Questions per Category ---")
 
     for q_code, config in tqdm(FEATURE_DATA.items(), desc="Generating Questions"):
-        questions = generate_and_cache_questions(q_code, config["question_text"])
+        final_path = os.path.join(output_dir, f"{q_code}.json")
+        if os.path.exists(final_path):
+            print(f"Skip {q_code}: {final_path} already exists.")
+            continue
+
+        questions = generate_and_cache_questions(
+            q_code=q_code,
+            feature_category=config["question_text"],
+            client=client,
+            cache_dir=cache_dir,
+            model_name=model_name,
+            questions_prompt=QUESTIONS_PROMPT,
+            seed=seed,
+        )
         if questions:
             category_questions_cache[q_code] = questions
 
@@ -263,15 +340,19 @@ def main():
         all_features, desc="Processing All Feature Values"
     ):
 
-        final_path = os.path.join(OUTPUT_DIR, f"{q_code}.json")
+        final_path = os.path.join(output_dir, f"{q_code}.json")
         if os.path.exists(final_path):
-            with open(final_path, "r", encoding="utf-8") as f:
-                temp_data = json.load(f)
-            if feature_value in temp_data.get("instructions", {}):
-                aggregated_data[q_code]["instructions"] = temp_data["instructions"]
-                continue
+            print(f"Skip saving {q_code}: file already exists.")
+            continue
 
-        instructions = generate_demographic_instructions(feature_category, feature_value)
+        instructions = generate_demographic_instructions(
+            feature_category=feature_category,
+            feature_value=feature_value,
+            client=client,
+            model_name=model_name,
+            instructions_prompt=INSTRUCTIONS_PROMPT,
+            seed=seed,
+        )
 
         if instructions:
             aggregated_data[q_code]["instructions"][feature_value] = {
@@ -282,6 +363,11 @@ def main():
     print("\n--- Stage 3: Finalizing and Saving Aggregated Files ---")
 
     for q_code, data in tqdm(aggregated_data.items(), desc="Saving Files"):
+        final_path = os.path.join(output_dir, f"{q_code}.json")
+        if os.path.exists(final_path):
+            print(f"Skip saving {q_code}: file already exists.")
+            continue
+        
         if q_code not in category_questions_cache:
             continue
 
@@ -292,7 +378,7 @@ def main():
             "instructions": data["instructions"],
         }
 
-        final_path = os.path.join(OUTPUT_DIR, f"{q_code}.json")
+        final_path = os.path.join(output_dir, f"{q_code}.json")
         with open(final_path, "w", encoding="utf-8") as f:
             json.dump(final_data, f, ensure_ascii=False, indent=4)
         print(f"Saved aggregated file: {final_path}")

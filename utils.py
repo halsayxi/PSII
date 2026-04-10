@@ -7,6 +7,7 @@ from activation_steer import ActivationSteerer, ActivationSteererMultiple
 import string
 import numpy as np
 import os
+from vllm import LLM, SamplingParams
 
 API_KEY = ""
 BASE_URL = ""
@@ -95,6 +96,52 @@ def get_model(
     return model, tokenizer
 
 
+def get_vllm_model(
+    model_name,
+    max_new_tokens=None,
+    temperature=None,
+    return_generation_config=True,
+):
+    model_path = get_model_path(model_name)
+
+    llm = LLM(
+        model=model_path,
+        trust_remote_code=True,
+        dtype="float16",
+    )
+
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_path,
+        padding_side="left",
+        fix_mistral_regex=True,
+        trust_remote_code=True,
+    )
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+
+    if return_generation_config:
+        if max_new_tokens is None:
+            raise ValueError(
+                "max_new_tokens is required when return_generation_config=True"
+            )
+        if temperature is None:
+            raise ValueError(
+                "temperature is required when return_generation_config=True"
+            )
+        if isinstance(max_new_tokens, str):
+            max_new_tokens = int(max_new_tokens)
+
+        generation_config = {
+            "max_new_tokens": max_new_tokens,
+            "temperature": max(temperature, 1e-5),
+            "top_p": 0.8,
+            "top_k": 20,
+        }
+        return llm, tokenizer, generation_config
+
+    return llm, tokenizer
+
+
 def get_prompt(tokenizer, role, exp):
     messages = [
         {"role": "system", "content": role},
@@ -181,11 +228,11 @@ def predict(
             )
         else:
             steerer = torch.no_grad()
-        
+
         with steerer:
             if save_hidden_states:
                 hooks = []
-                for l_idx, layer_module in enumerate(model.model.layers):  
+                for l_idx, layer_module in enumerate(model.model.layers):
                     hook = layer_module.register_forward_hook(
                         lambda m, i, o, l=l_idx: save_last_token_hook(m, i, o, l)
                     )
@@ -199,11 +246,11 @@ def predict(
 
                 for h in hooks:
                     h.remove()
-                
+
                 for l_idx, vec in saved_hidden.items():
                     file_name = f"agent_{agent_id}_q_{qid}_layer_{l_idx}.npy"
                     np.save(os.path.join(hidden_states_save_dir, file_name), vec)
-            else:   
+            else:
                 output = model.generate(
                     input_ids=input_ids,
                     attention_mask=attention_mask,
@@ -215,24 +262,85 @@ def predict(
             else:
                 generated_tokens = output[:, input_len:]
             text = tokenizer.decode(generated_tokens[0], skip_special_tokens=True)
-    
+
     return text
 
 
-def get_model_and_tokenizer(model_cache, model_name, max_new_tokens, temperature, save_hidden_states=False):
-    if model_name not in model_cache:
-        model, tokenizer, generation_config = get_model(
-            model_name, max_new_tokens, temperature, save_hidden_states=save_hidden_states
+def build_prompt_text(tokenizer, role, exp):
+    messages = [
+        {"role": "system", "content": role},
+        {"role": "user", "content": exp},
+    ]
+
+    if hasattr(tokenizer, "chat_template") and tokenizer.chat_template is not None:
+        prompt_text = tokenizer.apply_chat_template(
+            messages,
+            add_generation_prompt=True,
+            tokenize=False,
         )
-        model_cache[model_name] = {
+    else:
+        prompt_text = "\n".join([m["content"] for m in messages])
+
+    return prompt_text
+
+
+def predict_vllm(
+    llm,
+    tokenizer,
+    generation_config,
+    role,
+    exp,
+):
+    prompt_text = build_prompt_text(tokenizer, role, exp)
+
+    sampling_params = SamplingParams(
+        temperature=generation_config["temperature"],
+        top_p=generation_config["top_p"],
+        top_k=generation_config["top_k"],
+        max_tokens=generation_config["max_new_tokens"],
+    )
+
+    outputs = llm.generate([prompt_text], sampling_params)
+    text = outputs[0].outputs[0].text
+    return text
+
+
+def get_model_and_tokenizer(
+    model_cache,
+    model_name,
+    max_new_tokens,
+    temperature,
+    save_hidden_states=False,
+    use_vllm=False,
+):
+    cache_key = f"{model_name}__vllm={use_vllm}__hidden={save_hidden_states}"
+
+    if cache_key not in model_cache:
+        if use_vllm:
+            model, tokenizer, generation_config = get_vllm_model(
+                model_name,
+                max_new_tokens,
+                temperature,
+            )
+        else:
+            model, tokenizer, generation_config = get_model(
+                model_name,
+                max_new_tokens,
+                temperature,
+                save_hidden_states=save_hidden_states,
+            )
+
+        model_cache[cache_key] = {
             "model": model,
             "tokenizer": tokenizer,
             "generation_config": generation_config,
+            "use_vllm": use_vllm,
         }
-    return model_cache[model_name]
+
+    return model_cache[cache_key]
 
 
-def get_local_res(
+def get_local_res_transformers(
     role,
     exp,
     model_name,
@@ -250,7 +358,12 @@ def get_local_res(
     noise_std=0.1,
 ):
     model_data = get_model_and_tokenizer(
-        model_cache, model_name, max_new_tokens, temperature, save_hidden_states
+        model_cache,
+        model_name,
+        max_new_tokens,
+        temperature,
+        save_hidden_states,
+        use_vllm=False,
     )
     model = model_data["model"]
     tokenizer = model_data["tokenizer"]
@@ -274,6 +387,89 @@ def get_local_res(
     )
 
 
+def get_local_res_vllm(
+    role,
+    exp,
+    model_name,
+    temperature,
+    max_new_tokens,
+    model_cache,
+):
+    model_data = get_model_and_tokenizer(
+        model_cache,
+        model_name,
+        max_new_tokens,
+        temperature,
+        save_hidden_states=False,
+        use_vllm=True,
+    )
+    llm = model_data["model"]
+    tokenizer = model_data["tokenizer"]
+    generation_config = model_data["generation_config"]
+
+    return predict_vllm(
+        llm,
+        tokenizer,
+        generation_config,
+        role,
+        exp,
+    )
+
+
+def get_local_res(
+    role,
+    exp,
+    model_name,
+    temperature,
+    max_new_tokens,
+    model_cache,
+    hidden_states_save_dir,
+    agent_id,
+    qid,
+    save_hidden_states=False,
+    vector=None,
+    value_vector=None,
+    coef=None,
+    steering_type="response",
+    noise_std=0.1,
+    use_vllm_if_possible=True,
+):
+    can_use_vllm = (
+        use_vllm_if_possible
+        and (not save_hidden_states)
+        and (vector is None)
+        and (value_vector is None)
+    )
+
+    if can_use_vllm:
+        return get_local_res_vllm(
+            role=role,
+            exp=exp,
+            model_name=model_name,
+            temperature=temperature,
+            max_new_tokens=max_new_tokens,
+            model_cache=model_cache,
+        )
+
+    return get_local_res_transformers(
+        role=role,
+        exp=exp,
+        model_name=model_name,
+        temperature=temperature,
+        max_new_tokens=max_new_tokens,
+        model_cache=model_cache,
+        hidden_states_save_dir=hidden_states_save_dir,
+        agent_id=agent_id,
+        qid=qid,
+        save_hidden_states=save_hidden_states,
+        vector=vector,
+        value_vector=value_vector,
+        coef=coef,
+        steering_type=steering_type,
+        noise_std=noise_std,
+    )
+
+
 def get_res(
     role,
     exp,
@@ -291,6 +487,7 @@ def get_res(
     steering_type=None,
     noise_std=0.0,
     max_new_tokens=5,
+    use_vllm_if_possible=True,
 ):
     role = role.strip()
     exp = exp.strip()
@@ -313,6 +510,7 @@ def get_res(
             coef=coef,
             steering_type=steering_type,
             noise_std=noise_std,
+            use_vllm_if_possible=use_vllm_if_possible,
         )
     else:
         res = get_api_res(role, exp, model_name, temperature)

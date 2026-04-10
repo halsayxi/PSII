@@ -1,0 +1,58 @@
+{
+    "feature_category": "Living with Parents/In-laws",
+    "q_code": "Q271",
+    "questions": [
+        "To what extent do you feel your current living arrangement allows you to save for future financial goals?",
+        "How often do you feel your personal privacy is compromised by living with parents or in-laws?",
+        "Who usually makes the final decisions regarding household rules and daily schedules?",
+        "How has living with parents or in-laws affected your romantic or social life?",
+        "Do you contribute a fixed monthly amount to household expenses such as rent, mortgage, or utilities?",
+        "How satisfied are you with the level of independence you have in your daily routine?",
+        "To what degree do you feel a moral or cultural obligation to live with and support your parents or in-laws?",
+        "How often do disagreements regarding household chores or cleanliness occur in your home?",
+        "Do you feel that living with parents or in-laws is viewed positively or negatively in your local community?",
+        "How much does your current living situation influence your career choices or your ability to relocate for work?",
+        "Do you have a designated private space in the home where others are not permitted to enter without your consent?",
+        "How does living with parents or in-laws impact your overall mental and emotional well-being?",
+        "To what extent do you feel like an autonomous adult within your current household dynamic?",
+        "How often do your parents or in-laws offer unsolicited advice regarding your personal or professional life?",
+        "What is the primary reason for your current living arrangement (e.g., financial necessity, cultural tradition, caregiving)?",
+        "How do you typically resolve conflicts or differences of opinion with the older generation in the house?",
+        "Do you feel that your parents or in-laws respect the boundaries you try to set for yourself?",
+        "How has this living arrangement affected the quality of your relationship with your spouse or partner?",
+        "How frequently do you participate in shared family meals as part of your weekly routine?",
+        "How much do you worry about the future health or long-term care needs of the parents or in-laws you live with?",
+        "To what extent do you view your current living situation as a temporary stepping stone versus a permanent arrangement?",
+        "How does living with parents or in-laws affect your discretionary spending habits on luxury or non-essential items?",
+        "Do you feel a sense of pressure to conform to the lifestyle, religious, or social values of your parents or in-laws?",
+        "How do you balance your personal hobbies and interests with the expectations and needs of the household?",
+        "To what extent do you feel you are gaining a financial advantage by living in a multi-generational household?",
+        "How often do you feel the need to leave the house specifically to find time and space for yourself?",
+        "Do you feel that your parents or in-laws rely on you for emotional support or companionship?",
+        "How does your living situation affect your comfort level when it comes to hosting friends or guests?",
+        "Who is primarily responsible for the management of grocery shopping and meal preparation in the home?",
+        "Do you believe that living with parents or in-laws has significantly strengthened your family bonds?",
+        "How much do you contribute to the physical maintenance, repairs, or gardening of the family home?",
+        "Does your current living arrangement make you feel more or less secure about your long-term housing stability?",
+        "How do you navigate differences in parenting or disciplinary styles if there are children in the household?",
+        "To what extent do you feel your parents or in-laws still treat you as a child rather than an equal?",
+        "How does the presence of parents or in-laws affect the overall noise levels and atmosphere of your home?",
+        "Do you feel you have a significant say in major household decisions, such as renovations or large purchases?",
+        "How has your perception of the concept of 'home' changed since you began living with parents or in-laws?",
+        "Do you feel that you are sacrificing your personal growth or life experiences for the sake of the family unit?",
+        "How often do you and your family members discuss the possibility of you moving out or changing the living arrangement?",
+        "Overall, how would you rate the impact of this living arrangement on your general quality of life?"
+    ],
+    "instructions": {
+        "Yes, parent(s)-in-law": {
+            "option_code": "3",
+            "instructions": [
+                "You are a middle-aged adult living in a multigenerational household where your spouse's parents reside with you. Your daily life involves balancing your own family needs with the expectations and traditions of your in-laws. Approach the survey questions reflecting this dynamic and the influence it has on your social and personal decisions.",
+                "Assume the role of someone who shares a home with their parent(s)-in-law, often navigating the complexities of privacy, respect, and family hierarchy. Your attitudes are shaped by intergenerational influences and the challenges of maintaining harmony within this extended family setting. Answer the survey reflecting these experiences.",
+                "You live in a household that includes your spouse’s parents, which brings both support and occasional tension. Your perspective is influenced by the cultural and emotional ties inherent in this living arrangement, including shared responsibilities and occasional conflicts. Respond to all questions keeping this family structure in mind.",
+                "Adopt the identity of a person whose in-laws have moved in, creating a bustling multigenerational home. Your worldview incorporates perspectives on caregiving, space-sharing, and deference to elders, along with your own family priorities. Let these complex social dynamics inform your answers to the survey.",
+                "Imagine yourself living with your parent(s)-in-law, where daily routines and decisions are influenced by overlapping family roles and shared resources. Your attitudes reflect both the benefits and strains of this setup, including respect for elders and occasional compromise. Answer the questions from this lived-in perspective."
+            ]
+        }
+    }
+}

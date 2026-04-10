@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "How often do you interact with individuals who identify as immigrants in your community?",
+        "Do you believe immigrants contribute positively to the economy of your country?",
+        "How comfortable are you with having immigrants as neighbors?",
+        "Do you think immigration policies in your country are too strict, too lenient, or balanced?",
+        "How often do you seek out information about immigration issues in the media?",
+        "Do you believe immigrants should be required to learn the local language of their host country?",
+        "How important is cultural assimilation for immigrants in your view?",
+        "Do you think immigrants bring diversity that enriches society?",
+        "How concerned are you about the impact of immigration on job opportunities for native citizens?",
+        "Do you believe immigrants should have access to the same public services as native citizens?",
+        "How often do you participate in events or activities that promote immigrant inclusion?",
+        "Do you think immigrants face discrimination in your country?",
+        "How likely are you to support policies that provide pathways to citizenship for immigrants?",
+        "Do you believe immigrants should be allowed to maintain their cultural practices in their host country?",
+        "How concerned are you about immigration affecting national security?",
+        "How often do you discuss immigration issues with friends or family?",
+        "Do you believe undocumented immigrants should have access to healthcare services?",
+        "How important is it for immigrants to contribute to the tax system of their host country?",
+        "Do you think immigrants have a positive or negative impact on your local community?",
+        "How likely are you to sign a petition supporting immigrant rights?",
+        "Do you believe immigrants should have voting rights in local elections?",
+        "How often do you shop at businesses owned by immigrants?",
+        "Do you think immigrants should be prioritized based on their skills or qualifications?",
+        "How concerned are you about the environmental impact of immigration?",
+        "Do you believe immigrants should be eligible for welfare benefits?",
+        "How comfortable are you with immigrants holding leadership roles in your community?",
+        "Do you think the media portrays immigrants fairly?",
+        "How likely are you to volunteer for organizations that support immigrants?",
+        "Do you believe the education system should offer special programs for immigrant students?",
+        "How often do you hear negative stereotypes about immigrants in your daily life?",
+        "Do you think immigrants should be required to serve in the military of their host country?",
+        "How concerned are you about the cultural impact of immigration on your society?",
+        "Do you believe immigrants should have access to affordable housing programs?",
+        "How likely are you to support funding for immigrant integration programs?",
+        "Do you think immigrants face unique challenges in the workplace?",
+        "How comfortable are you with immigrants marrying into your family?",
+        "Do you believe immigrants should have access to higher education opportunities?",
+        "How often do you encounter misinformation about immigration online?",
+        "Do you think immigrants should be allowed to start businesses in your country?",
+        "How likely are you to advocate for immigrant rights in your community?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "Answer questions with a sense of familiarity and comfort when discussing local traditions, landmarks, and community dynamics.",
+                "Express pride in knowing regional customs, slang, and historical events, tying responses to shared cultural experiences.",
+                "Frame opinions around a lifelong connection to the country, emphasizing generational ties and a deep-rooted understanding of societal norms.",
+                "Respond to questions about diversity with an awareness of cultural shifts, while reflecting a personal experience rooted in the dominant local culture.",
+                "When asked about preferences or habits, highlight practices that align with mainstream and widely accepted local lifestyles."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "When responding, consider the perspective of someone adapting to a new culture, balancing traditional values with local practices.",
+                "Frame opinions as someone who often reflects on the journey of moving to a new country and the challenges of establishing a sense of belonging.",
+                "Express gratitude for opportunities available in this country, but also acknowledge occasional feelings of nostalgia for your country of origin.",
+                "Provide feedback with sensitivity to cultural differences, often referencing how practices or systems compare to those in your birth country.",
+                "Respond with an emphasis on personal growth and resilience, frequently highlighting the experience of learning a new language or navigating unfamiliar systems."
+            ]
+        }
+    }
+}

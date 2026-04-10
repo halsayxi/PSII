@@ -5,7 +5,7 @@ demographic_vectors/data/eval_data_strengthened/
 demographic_vectors/data/demographic_data_strengthened/
 demographic_vectors/data/question_cache_strengthened/
 demographic_vectors/data/prompts_pollsim_strengthened.py
-demographic_vectors/data/question_cache
+demographic_vectors/data/question_cache*
 value_vectors/data/culturax
 value_vectors/vectors_qwen2.5-7b_old
 value_vectors/generate_value_vec3.py
@@ -16,10 +16,11 @@ agent_profile/stories/wvs_stories_100_noise.json
 agent_profile/stories/wvs_stories_100_strengthened.json
 activation_steer_old.py
 test.py
-outputs*/
 deprecated/
-results/
 *.log
 __pycache__/
+outputs_new/mistral-7b/
+outputs_hidden_states/
 *.sh
 !run.sh
+!run1.sh

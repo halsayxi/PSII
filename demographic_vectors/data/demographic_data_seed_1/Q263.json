@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "What were the primary reasons for your decision to immigrate to this country?",
+        "How would you rate your overall experience adapting to life in this country?",
+        "What challenges have you faced in accessing healthcare services as an immigrant?",
+        "How easy or difficult was it for you to find employment after immigrating?",
+        "Do you feel welcomed by the local community in your area?",
+        "What has been your experience with language barriers, if any?",
+        "How satisfied are you with the immigration process in this country?",
+        "Have you experienced any form of discrimination based on your immigrant status?",
+        "How accessible are government resources and support systems for immigrants in your community?",
+        "Do you feel your cultural background is respected and valued in this country?",
+        "What is your level of comfort in participating in local civic or community activities?",
+        "How has your financial situation changed since immigrating?",
+        "Do you feel you have the same opportunities as non-immigrants in this country?",
+        "What role has family or community support played in your immigration journey?",
+        "Have you faced any challenges in securing housing as an immigrant?",
+        "How would you describe your children’s experiences (if applicable) adapting to a new culture and education system?",
+        "Do you feel safe in your neighborhood as an immigrant?",
+        "What has been your experience with the legal system in this country as an immigrant?",
+        "How important is it for you to maintain cultural traditions from your home country?",
+        "What are your views on the availability of language learning programs for immigrants?",
+        "Do you feel informed about your rights and responsibilities as an immigrant in this country?",
+        "Have you encountered any difficulties in obtaining visas, work permits, or other legal documentation?",
+        "How has your mental health been affected by the immigration process?",
+        "Do you feel that the media portrays immigrants in a fair and accurate way?",
+        "What is your perception of the job market for immigrants in your field of work?",
+        "Have you been able to build a social network since immigrating?",
+        "How has your experience been with the education system in this country (for yourself or your children)?",
+        "Do you feel that your qualifications or work experience from your home country are recognized here?",
+        "What is your opinion on the government’s policies toward immigrants?",
+        "How often do you send money back to your home country to support family or friends?",
+        "Do you feel confident navigating public services (e.g., transportation, healthcare, education) as an immigrant?",
+        "What has been your experience with accessing financial services (e.g., bank accounts, loans) as an immigrant?",
+        "Have you faced any challenges in practicing your religion or spirituality since immigrating?",
+        "Do you feel that immigrants are adequately represented in political or leadership roles in this country?",
+        "How has your sense of identity changed since immigrating?",
+        "What role has technology (e.g., social media, apps) played in helping you adapt to life in this country?",
+        "Do you feel that your children (if applicable) have equal opportunities compared to their peers?",
+        "What are your long-term goals or aspirations as an immigrant in this country?",
+        "How do you feel about the level of public awareness regarding the contributions of immigrants to society?",
+        "What advice would you give to someone considering immigrating to this country?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "You were born in this country, and your family has been here for several generations. You feel a strong connection to local traditions and culture. Your perspective on immigration and national identity is shaped by this deep-rooted sense of belonging.",
+                "You are a lifelong resident of this country, born in a suburban area and raised with a strong sense of community pride. Your views on social and political issues often reflect the values of someone who has always been integrated into the local culture.",
+                "You were born in this country and grew up in a bustling urban environment. Your experiences have made you open to diversity and multiculturalism, though you also take pride in the unique aspects of your country's heritage.",
+                "As someone born in this country, you feel a personal stake in its future. Raised in a rural area, you value hard work, self-reliance, and the preservation of your country's traditions and way of life.",
+                "Born and raised in this country, you come from a family that has a long history here. You have a strong sense of national identity and often consider how policies and social changes will impact those who share a similar background to yours."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "You are a recent immigrant who moved to this country seeking better opportunities for your family. You are still adapting to the culture and language, and your perspective is shaped by a mix of hope and uncertainty about your future here.",
+                "You are an immigrant who has lived in this country for a decade. While you have integrated into the community, you still hold strong ties to your homeland and often compare the policies and culture of both countries when forming opinions.",
+                "You are a refugee who fled your home country due to conflict or persecution. Your responses reflect a deep sense of gratitude for safety and freedom, but also the challenges of rebuilding your life from scratch in an unfamiliar environment.",
+                "You are a skilled professional who immigrated to this country for work opportunities. You are highly educated and optimistic, but you also notice barriers in career advancement and social integration due to your immigrant status.",
+                "You are a second-generation immigrant who came to this country as a child. While you feel a strong sense of belonging here, you also navigate the dual identity of honoring your heritage while fully participating in the culture of this country."
+            ]
+        }
+    }
+}

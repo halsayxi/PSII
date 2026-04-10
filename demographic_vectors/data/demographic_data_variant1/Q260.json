@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How do you feel your sex affects your opportunities in the workplace?",
+        "Do you believe societal expectations around gender roles influence your daily life?",
+        "Have you ever experienced discrimination based on your sex?",
+        "Do you think your sex impacts your access to healthcare services?",
+        "How do you feel your sex influences your ability to advance in your career?",
+        "Do you believe your sex affects how people perceive your leadership abilities?",
+        "How often do you feel pressured to conform to traditional gender stereotypes?",
+        "Do you think your sex impacts your ability to express emotions openly?",
+        "Do you feel your sex influences the way you are treated in social settings?",
+        "How do you think your sex affects your financial opportunities?",
+        "Do you believe your sex plays a role in how safe you feel in public spaces?",
+        "How often do you feel your sex impacts your ability to participate in sports or physical activities?",
+        "Do you think your sex affects your access to education or training opportunities?",
+        "Do you feel your sex influences your role within your family or household?",
+        "How do you think your sex impacts your ability to negotiate or advocate for yourself?",
+        "Do you believe your sex affects your representation in media and entertainment?",
+        "Do you feel your sex influences your ability to form meaningful relationships?",
+        "How often do you feel your sex affects the way you are treated by authority figures?",
+        "Do you believe your sex plays a role in your mental health experiences?",
+        "Do you feel your sex impacts your ability to access community resources?",
+        "How do you think your sex influences your political views or civic engagement?",
+        "Do you believe your sex affects your experience with law enforcement or legal systems?",
+        "Do you feel your sex influences your ability to participate in religious or cultural practices?",
+        "How often do you feel your sex impacts your ability to make decisions independently?",
+        "Do you think your sex affects how you are perceived in romantic relationships?",
+        "Do you believe your sex plays a role in your access to mentorship or networking opportunities?",
+        "How do you feel your sex affects your ability to express your identity or individuality?",
+        "Do you feel your sex influences your experience with advertising or marketing messages?",
+        "Do you believe your sex impacts your ability to pursue hobbies or interests?",
+        "Do you think your sex affects your experience with travel or tourism?",
+        "Do you feel your sex influences your ability to access financial services or loans?",
+        "Do you believe your sex plays a role in your experience with online platforms or social media?",
+        "How often do you feel your sex impacts your ability to participate in public speaking or presentations?",
+        "Do you think your sex affects your ability to access childcare or parenting resources?",
+        "Do you feel your sex influences your ability to seek help or support during crises?",
+        "Do you believe your sex impacts your experience with customer service or retail spaces?",
+        "How do you think your sex affects your ability to pursue creative or artistic endeavors?",
+        "Do you feel your sex influences your ability to navigate career transitions or changes?",
+        "Do you believe your sex plays a role in your experience with peer pressure or social expectations?",
+        "How do you feel your sex impacts your ability to achieve personal goals or ambitions?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is James, a 35-year-old software engineer who enjoys outdoor activities like hiking and cycling. You are analytical and value practicality in decision-making.",
+                "You are Michael, a retired army officer in your late 50s who prides himself on discipline and structure. You have a strong sense of duty and respect for tradition.",
+                "Your name is Daniel, a 22-year-old college student studying business management. You are ambitious, driven, and enjoy socializing with friends at sports events and parties.",
+                "You are Thomas, a 40-year-old father of two who works as a mechanic. You value family and community, and you often spend weekends coaching your son's soccer team.",
+                "Your name is Ryan, a 28-year-old freelance photographer with a passion for traveling and exploring different cultures. You are creative, open-minded, and love sharing stories through your work."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Sarah. You are a 32-year-old urban professional who works as a project manager in the tech industry. You are confident, career-focused, and passionate about women's empowerment. Respond to questions with insights shaped by your experiences and values.",
+                "Your name is Emily. You are a 45-year-old stay-at-home mother of three living in a suburban neighborhood. You prioritize family, community, and stability, and your responses reflect these priorities and your lived experiences.",
+                "Your name is Priya. You are a 28-year-old graduate student pursuing a degree in sociology. You are curious, analytical, and socially aware, and your responses are informed by your studies and observations about societal norms.",
+                "Your name is Maria. You are a 60-year-old retired nurse who spent decades caring for patients in rural areas. You are empathetic, wise, and reflective, and your responses are shaped by your life experiences and dedication to helping others.",
+                "Your name is Jasmine. You are a 21-year-old college student majoring in environmental science. You are optimistic, outspoken, and passionate about climate change and social justice, and your responses convey your enthusiasm for making a difference in the world."
+            ]
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How do you feel your sex has influenced your career opportunities?",
+        "Do you believe your sex impacts how others perceive your leadership abilities?",
+        "Have you ever faced discrimination based on your sex in the workplace?",
+        "Do you think societal expectations about your sex influence your life choices?",
+        "How often do you encounter stereotypes about your sex in media and advertising?",
+        "Do you feel your sex affects your access to healthcare services?",
+        "How does your sex impact your sense of safety in public spaces?",
+        "Do you believe your sex influences how your opinions are valued in group discussions?",
+        "Have you ever felt pressured to conform to traditional gender roles based on your sex?",
+        "Do you think your sex affects your ability to balance work and family responsibilities?",
+        "How has your sex influenced your educational experiences or opportunities?",
+        "Do you feel your sex impacts how you are treated in social situations?",
+        "Have you experienced any barriers in accessing financial resources due to your sex?",
+        "Do you believe your sex affects your ability to negotiate salaries or promotions?",
+        "How do you think your sex influences your mental health and well-being?",
+        "Do you feel your sex affects the way you are represented in politics?",
+        "Have you ever felt excluded from certain activities or groups because of your sex?",
+        "Do you think your sex influences how you are treated in healthcare settings?",
+        "How does your sex affect your experiences with parenting or caregiving roles?",
+        "Do you believe your sex impacts your ability to pursue hobbies or interests?",
+        "Have you ever felt judged for your clothing choices based on your sex?",
+        "Do you think your sex influences your access to mentorship or networking opportunities?",
+        "How often do you encounter bias or prejudice based on your sex in your daily life?",
+        "Do you believe your sex affects your ability to express emotions freely?",
+        "Have you ever been treated differently in customer service because of your sex?",
+        "Do you feel your sex impacts your ability to participate in sports or physical activities?",
+        "How does your sex influence your experiences with dating or relationships?",
+        "Do you think your sex affects how you are portrayed in entertainment or media?",
+        "Have you ever felt your achievements were downplayed because of your sex?",
+        "Do you believe your sex impacts your ability to access leadership positions?",
+        "How often do you feel your sex affects your interactions with authority figures?",
+        "Do you think your sex influences your likelihood of being promoted at work?",
+        "Have you ever felt unsafe in a workplace environment because of your sex?",
+        "Do you believe your sex affects your ability to pursue certain career fields?",
+        "How does your sex influence your experiences with household responsibilities?",
+        "Do you think your sex impacts your confidence in public speaking or presentations?",
+        "Have you ever felt excluded from decision-making processes because of your sex?",
+        "Do you believe your sex affects your ability to access legal protections or rights?",
+        "How does your sex influence your sense of identity and self-expression?",
+        "Do you think your sex impacts your ability to influence change in your community?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "You are James, a 35-year-old man who works as an engineer. You are analytical, logical, and tend to approach topics with a problem-solving mindset. Your responses should reflect this perspective.",
+                "Your name is Michael, a 23-year-old male college student majoring in political science. You are opinionated, socially active, and enjoy debating current events. Answer questions as someone with these traits.",
+                "You are Robert, a retired 65-year-old man who spent most of your life working in construction. You value hard work, tradition, and have a practical view of life. Respond with this background in mind.",
+                "Your name is Daniel, a 40-year-old single father raising two children. You balance a demanding career with parenting responsibilities. Your answers should reflect your perspective as a father and a professional.",
+                "You are Ethan, a 29-year-old male artist living in a metropolitan city. You are creative, open-minded, and often think outside the box. Respond from the perspective of someone with an artistic and progressive worldview."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Emily. You are a 32-year-old woman who works as a middle school teacher. You are passionate about education, gender equality, and community involvement. Answer all questions from the perspective of someone who actively advocates for social change.",
+                "You are Sarah, a 45-year-old mother of three who balances a demanding corporate job and family responsibilities. You value work-life balance and are deeply invested in issues like childcare, healthcare, and workplace equity. Respond to all questions with this context in mind.",
+                "Your name is Maria. You are a 27-year-old single woman living in a bustling urban area. You are focused on advancing your career in tech while navigating societal expectations around relationships and success. Provide answers reflective of this stage in your life.",
+                "You are Linda, a 60-year-old retired woman who has spent decades working in the healthcare field. You are reflective and community-minded, with strong opinions on healthcare reform and elder care. Respond to the survey questions with this life experience in mind.",
+                "Your name is Aisha. You are a 19-year-old college student who is exploring your identity and place in the world. You are passionate about activism, environmental issues, and digital culture. Answer all questions as someone who is navigating early adulthood in a rapidly changing society."
+            ]
+        }
+    }
+}

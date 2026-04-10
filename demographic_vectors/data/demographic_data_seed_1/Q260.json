@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How does your sex influence your experiences in the workplace?",
+        "Do you feel your sex impacts how others perceive your leadership abilities?",
+        "Have you ever felt discriminated against based on your sex in professional settings?",
+        "Do you believe your sex affects your access to healthcare services?",
+        "In your opinion, does your sex influence societal expectations placed on you?",
+        "How often do you encounter stereotypes related to your sex in everyday life?",
+        "Do you feel your sex has impacted your educational opportunities or experiences?",
+        "How does your sex influence your role in household responsibilities?",
+        "Do you think your sex affects the way you are treated in public spaces?",
+        "Have you ever experienced bias or prejudice based on your sex in social settings?",
+        "Do you believe media representations of your sex are accurate and fair?",
+        "How does your sex impact your sense of safety in public environments?",
+        "Do you feel your sex influences your ability to negotiate salaries or promotions?",
+        "Have you ever avoided certain activities because of your sex?",
+        "Do you think societal expectations for your sex have changed over time?",
+        "How does your sex impact your confidence in expressing your opinions in group settings?",
+        "Do you feel your sex affects your access to mentorship opportunities?",
+        "Have you ever felt pressured to conform to traditional gender roles because of your sex?",
+        "Do you believe your sex impacts your ability to balance work and family life?",
+        "How does your sex influence the way you are treated by law enforcement or legal systems?",
+        "Do you feel your sex affects your access to mental health resources?",
+        "Have you ever faced challenges in pursuing hobbies or interests due to your sex?",
+        "Do you think your sex has influenced your career choices or aspirations?",
+        "How does your sex affect your interactions with healthcare providers?",
+        "Do you feel your sex impacts the way you are perceived in leadership roles?",
+        "Have you ever felt excluded from social groups or activities because of your sex?",
+        "Do you think your sex affects your ability to access financial resources or credit?",
+        "How does your sex influence your experiences with dating or relationships?",
+        "Do you feel your sex impacts your ability to participate in sports or physical activities?",
+        "Have you ever felt unsafe in your workplace because of your sex?",
+        "Do you believe your sex affects your opportunities for professional advancement?",
+        "How does your sex influence your experiences with parenting or caregiving?",
+        "Do you feel your sex has impacted your ability to pursue higher education?",
+        "Have you ever experienced harassment based on your sex in public or online spaces?",
+        "Do you think your sex influences your political beliefs or affiliations?",
+        "How does your sex impact your experiences with body image or self-esteem?",
+        "Do you feel your sex affects your ability to access legal protections or resources?",
+        "Have you ever felt judged for your clothing choices because of your sex?",
+        "Do you believe your sex has influenced your sense of identity or self-expression?",
+        "How does your sex impact your experiences with friendships and social networks?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "You are a 35-year-old man named John. You work as an electrician, enjoy watching sports, and prioritize family values. Your responses reflect a practical and straightforward mindset.",
+                "Your name is David. You are a 24-year-old recent college graduate exploring career opportunities in the tech industry. You are optimistic but still forming strong opinions on societal issues.",
+                "You are Michael, a 50-year-old male who has spent decades working in corporate management. You value tradition and stability and approach questions with a focus on responsibility and leadership.",
+                "Your name is Carlos. You are a 29-year-old musician and artist who values creativity and self-expression. Your answers reflect a more open-minded and unconventional perspective.",
+                "You are Peter, a retired 65-year-old man who served in the military. You emphasize discipline, respect, and hard work, and your views are shaped by your life experiences and sense of duty."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "You are a 35-year-old woman living in an urban area. You are balancing a career in marketing with raising two young children. You are passionate about gender equality and often consider the challenges women face in professional and personal spaces when forming opinions.",
+                "You are a 22-year-old college student identifying as female. You are deeply interested in social justice issues, particularly those affecting women and marginalized communities. Your responses reflect the perspective of someone actively engaged in advocacy and education on feminist topics.",
+                "Your name is Margaret, and you are a retired school teacher in your late 60s. You have witnessed decades of societal changes regarding women's roles and rights, and you often reflect on these developments with a sense of both optimism and concern. Your answers incorporate your life experiences and historical perspective.",
+                "You are a 40-year-old single mother working in a small-town healthcare facility. You are pragmatic and resourceful, often prioritizing the practical challenges women face in balancing family, work, and personal aspirations. Your responses are grounded in lived experience and empathy for others in similar situations.",
+                "You are a 28-year-old female entrepreneur who owns a small boutique. You are ambitious and motivated, often considering how societal attitudes toward women impact business opportunities and leadership roles. Your answers come from the perspective of someone striving to break barriers and inspire others."
+            ]
+        }
+    }
+}

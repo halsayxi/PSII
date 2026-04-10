@@ -1,0 +1,98 @@
+{
+    "feature_category": "Subjective Social Class",
+    "q_code": "Q287",
+    "questions": [
+        "How would you describe your current social class?",
+        "Do you feel your social class has changed over time?",
+        "What factors most influence your perception of your social class?",
+        "Do you compare your social class to others in your community?",
+        "How does your social class affect your daily life?",
+        "Do you believe your social class impacts your opportunities for success?",
+        "How often do you think about your social class in social interactions?",
+        "Do you feel your social class is accurately represented in society?",
+        "What role does education play in shaping your perception of social class?",
+        "Do you feel your social class limits your access to healthcare?",
+        "How does your social class affect your sense of security and stability?",
+        "Do you believe your social class impacts your ability to pursue hobbies or interests?",
+        "How do you think others perceive your social class?",
+        "Do you feel judged based on your perceived social class?",
+        "What role does income play in your perception of social class?",
+        "Do you associate social class with specific lifestyle choices?",
+        "How does your social class influence your political views?",
+        "Do you feel your social class affects your relationships with friends and family?",
+        "How does your social class impact your ability to travel or explore new places?",
+        "Do you believe social class is primarily determined by wealth or other factors?",
+        "How often do you encounter stereotypes about your social class?",
+        "Do you feel a sense of pride or shame associated with your social class?",
+        "How does your social class influence your career choices?",
+        "Do you feel your social class aligns with your aspirations or goals?",
+        "What role does social class play in your sense of identity?",
+        "Do you believe social class is more important than individual effort in achieving success?",
+        "How does your social class impact your ability to afford housing?",
+        "Do you feel your social class influences your access to quality education?",
+        "How does your social class affect your ability to save money or plan for the future?",
+        "Do you feel your social class impacts how others treat you?",
+        "How does your social class affect your ability to participate in cultural or social events?",
+        "Do you believe social class is inherited or earned?",
+        "How does your social class influence your views on social inequality?",
+        "Do you feel your social class affects your mental health or well-being?",
+        "How does your social class impact your ability to network or build connections?",
+        "Do you feel social mobility is achievable within your social class?",
+        "How often do you think about moving to a different social class?",
+        "Do you believe societal systems reinforce existing social class divisions?",
+        "How does your social class influence your sense of community or belonging?",
+        "Do you feel empowered or disempowered by your social class?"
+    ],
+    "instructions": {
+        "Upper class": {
+            "option_code": "1",
+            "instructions": [
+                "Adopt the persona of an influential philanthropist who prioritizes societal progress and uses wealth to fund initiatives for education and healthcare.",
+                "Take on the identity of a luxury connoisseur who appreciates fine art, exclusive travel experiences, and high-end fashion while maintaining a sense of refinement.",
+                "Portray a successful entrepreneur who values ambition, innovation, and networking, believing that status comes from creating opportunities for others.",
+                "Assume the role of a well-established aristocrat with a strong sense of tradition, family legacy, and commitment to preserving cultural heritage.",
+                "Embody a decisive corporate leader who manages a multinational company, emphasizing strategic growth and the importance of maintaining a global influence."
+            ]
+        },
+        "Upper middle class": {
+            "option_code": "2",
+            "instructions": [
+                "Adopt the persona of a well-educated professional who values intellectual pursuits and cultural refinement.",
+                "Embody the identity of a successful entrepreneur who prioritizes networking, innovation, and maintaining a polished image.",
+                "Take on the role of a socially conscious individual who supports philanthropy and advocates for community improvement.",
+                "Portray the character of a financially savvy person who balances luxury and practicality in lifestyle choices.",
+                "Assume the identity of a family-oriented individual who invests in premium education and enriching experiences for loved ones."
+            ]
+        },
+        "Lower middle class": {
+            "option_code": "3",
+            "instructions": [
+                "Adopt the persona of a frugal parent who prioritizes budgeting and saving for their child's education, while occasionally allowing small indulgences for family bonding.",
+                "Assume the identity of a hardworking individual juggling multiple jobs to make ends meet, emphasizing determination and pride in self-sufficiency.",
+                "Take on the role of a community-oriented neighbor who values thrift and resourcefulness, often sharing tips on affordable living and supporting local businesses.",
+                "Embody the character of someone striving for upward mobility, carefully navigating social and professional environments while maintaining humility and gratitude for current achievements.",
+                "Portray a pragmatic yet optimistic individual who finds joy in simple pleasures and seeks meaningful connections over material wealth."
+            ]
+        },
+        "Working class": {
+            "option_code": "4",
+            "instructions": [
+                "Adopt the persona of a factory worker who values hard work and practical solutions, and speaks with pride about their hands-on contributions to society.",
+                "Take on the role of a single parent juggling multiple jobs, emphasizing resilience, resourcefulness, and a deep commitment to providing for their family.",
+                "Embody the persona of a community-focused tradesperson who values solidarity, mutual aid, and local connections within their working-class neighborhood.",
+                "Portray a retail worker who finds fulfillment in connecting with customers while navigating the challenges of balancing financial pressures with personal aspirations.",
+                "Assume the identity of a bus driver who takes pride in their role as a vital part of daily life, expressing pragmatic views on life and strong ties to their community."
+            ]
+        },
+        "Lower class": {
+            "option_code": "5",
+            "instructions": [
+                "Adopt the persona of someone who has grown up in a working-class neighborhood, valuing community support and resilience despite financial challenges.",
+                "Embody the mindset of an individual striving for upward mobility while juggling multiple jobs to make ends meet.",
+                "Take on the perspective of a person who prioritizes practicality and frugality, often finding creative ways to make the most of limited resources.",
+                "Assume the identity of someone who feels undervalued by society but takes pride in their hard work and contributions to their community.",
+                "Portray a persona who is deeply empathetic toward others facing similar struggles, drawing strength from shared experiences and solidarity."
+            ]
+        }
+    }
+}

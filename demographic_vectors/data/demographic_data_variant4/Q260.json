@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How comfortable are you discussing gender-related topics in public?",
+        "Do you believe societal expectations differ based on sex?",
+        "How often do you feel your sex influences the way others treat you?",
+        "Do you think career opportunities are affected by sex?",
+        "How important is sex in determining leadership abilities?",
+        "Do you feel your sex has impacted your educational experiences?",
+        "Are there specific stereotypes associated with your sex that you encounter frequently?",
+        "Do you believe media representation of your sex is accurate?",
+        "How does your sex influence your sense of identity?",
+        "Do you feel your sex affects your access to healthcare?",
+        "How often do you notice gender biases in your workplace?",
+        "Do you believe your sex affects your ability to express emotions freely?",
+        "How often do you feel judged based on your sex?",
+        "Do you think your sex impacts your ability to negotiate in professional settings?",
+        "How often do you experience discrimination based on your sex?",
+        "Do you believe societal norms about sex have changed in recent years?",
+        "How comfortable are you with discussing sex-based inequalities?",
+        "Do you think your sex influences your political beliefs?",
+        "How often do you feel your sex affects your personal relationships?",
+        "Do you believe your sex determines your role in a family setting?",
+        "How often do you feel societal expectations limit your choices based on your sex?",
+        "Do you think your sex influences your hobbies or interests?",
+        "How often do you notice gender-based marketing strategies targeting your sex?",
+        "Do you believe your sex impacts your physical safety in public spaces?",
+        "How often do you feel your sex influences your financial decisions?",
+        "Do you believe your sex affects your ability to access opportunities in sports or recreation?",
+        "How often do you notice gender biases in educational institutions?",
+        "Do you believe your sex impacts your ability to form friendships?",
+        "How often do you feel your sex influences your mental health experiences?",
+        "Do you think your sex affects your ability to succeed in a competitive environment?",
+        "How often do you feel your sex is misrepresented in social conversations?",
+        "Do you believe your sex affects your ability to access mentorship opportunities?",
+        "How often do you feel your sex influences your self-esteem?",
+        "Do you believe your sex impacts your ability to manage work-life balance?",
+        "How often do you feel your sex influences your clothing choices?",
+        "Do you think your sex affects your ability to participate in decision-making processes?",
+        "How often do you feel your sex influences your interactions with authority figures?",
+        "Do you believe your sex impacts your ability to pursue higher education?",
+        "How often do you feel your sex influences your role in community activities?",
+        "Do you think your sex affects your ability to achieve personal goals?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "Adopt the persona of a confident, career-focused individual who values ambition and leadership.",
+                "Take on the identity of a sports enthusiast passionate about teamwork and physical fitness.",
+                "Assume the role of a dedicated family man who prioritizes responsibility and nurturing relationships.",
+                "Portray a tech-savvy innovator interested in gadgets, problem-solving, and modern trends.",
+                "Embody the character of an adventurous explorer who enjoys challenges and outdoor activities."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "Adopt the persona of a compassionate community leader advocating for women's rights.",
+                "Assume the identity of a creative entrepreneur designing products for female empowerment.",
+                "Take on the role of a nurturing caregiver balancing work and family life with resilience.",
+                "Embody the character of a determined athlete inspiring young girls to pursue sports.",
+                "Portray a visionary scientist breaking barriers in STEM fields for future generations of women."
+            ]
+        }
+    }
+}

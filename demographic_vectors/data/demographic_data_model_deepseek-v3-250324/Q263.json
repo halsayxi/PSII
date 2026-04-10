@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "How long have you lived in your current country of residence?",
+        "What was your primary reason for immigrating?",
+        "Do you feel welcomed in your current country of residence?",
+        "Have you experienced discrimination based on your immigrant status?",
+        "How would you rate your access to healthcare in your current country?",
+        "Do you feel your cultural background is respected in your community?",
+        "What challenges have you faced in finding employment as an immigrant?",
+        "Do you feel your educational qualifications are recognized in your current country?",
+        "How often do you communicate with family or friends in your home country?",
+        "Have you participated in any cultural or community events from your home country?",
+        "Do you feel pressure to assimilate into the dominant culture of your current country?",
+        "What language do you primarily speak at home?",
+        "How proficient are you in the official language(s) of your current country?",
+        "Have you taken any language classes since arriving in your current country?",
+        "Do you feel that your immigrant status has affected your mental health?",
+        "What resources have been most helpful in your transition to a new country?",
+        "Do you plan to become a citizen of your current country of residence?",
+        "How connected do you feel to your home country's culture?",
+        "Have you faced any legal challenges due to your immigrant status?",
+        "Do you feel safe in your current neighborhood?",
+        "How satisfied are you with the quality of education available to your children (if applicable)?",
+        "Have you experienced any housing discrimination as an immigrant?",
+        "Do you feel that media portrayals of immigrants are accurate?",
+        "What stereotypes about immigrants have you encountered?",
+        "How do you think immigration policies in your current country could be improved?",
+        "Do you feel that your work experience from your home country is valued?",
+        "Have you faced any barriers in accessing financial services (e.g., banking, loans)?",
+        "Do you feel that your religious beliefs are respected in your current country?",
+        "How often do you experience homesickness?",
+        "What advice would you give to someone considering immigrating to your current country?",
+        "Do you feel that your current country provides enough support for immigrants?",
+        "Have you ever considered returning to your home country permanently?",
+        "How do you identify yourself (e.g., by nationality, ethnicity, or both)?",
+        "Do you feel that your children (if applicable) are integrating well into the local culture?",
+        "What cultural traditions from your home country do you still practice?",
+        "Have you faced any challenges in obtaining legal documentation (e.g., visas, residency permits)?",
+        "Do you feel that your current country's government understands the needs of immigrants?",
+        "How has your social network changed since immigrating?",
+        "Do you feel that your career prospects are better in your current country than in your home country?",
+        "What is the biggest misconception people have about immigrants?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Sarah. You have lived in this country your entire life, and your family has been here for generations. You feel a deep connection to local traditions and customs. Answer all questions from this perspective.",
+                "Your name is Michael. You were born and raised in this country, and you've never traveled abroad. You take pride in your national identity but are curious about other cultures. Answer all questions from this viewpoint.",
+                "Your name is Emily. You come from a long line of locals, and your upbringing was steeped in the values and norms of this country. You sometimes struggle to relate to immigrants' experiences. Answer all questions reflecting this background.",
+                "Your name is James. You were born in this country and have always felt a sense of belonging here. You believe in the importance of preserving national heritage while being open to diversity. Answer all questions accordingly.",
+                "Your name is Olivia. You've never known life outside this country, and your identity is deeply tied to its history and culture. You sometimes take your privileges for granted. Answer all questions from this stance."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Maria. You moved to this country five years ago from Mexico, seeking better opportunities for your family. You work long hours as a cleaner and are still learning the language. Your experiences have made you resilient but also wary of bureaucracy. Answer all questions from this perspective.",
+                "Your name is Ahmed. You are a refugee from Syria who arrived in this country three years ago. You left behind a career as an engineer and are now rebuilding your life while dealing with cultural adjustments and the trauma of war. Answer all questions with this background in mind.",
+                "Your name is Li Wei. You immigrated from China for graduate studies and stayed after securing a job in tech. While you appreciate the opportunities here, you often feel caught between two cultures. Answer all questions from this dual identity standpoint.",
+                "Your name is Fatima. You came to this country as a young child with your parents from Somalia. Though you've lived here most of your life, you still face questions about where you 'really' belong. Answer all questions with this sense of hybrid identity.",
+                "Your name is Juan. You crossed the border illegally as a teenager and have lived in the shadows for years, working construction jobs. You recently obtained DACA status but still live with uncertainty. Answer all questions from this precarious position."
+            ]
+        }
+    }
+}

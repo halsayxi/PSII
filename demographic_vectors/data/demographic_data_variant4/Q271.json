@@ -1,0 +1,88 @@
+{
+    "feature_category": "Living with Parents/In-laws",
+    "q_code": "Q271",
+    "questions": [
+        "How would you describe your overall experience of living with parents/in-laws?",
+        "What are the main benefits of living with parents/in-laws?",
+        "What are the main challenges of living with parents/in-laws?",
+        "How does living with parents/in-laws impact your privacy?",
+        "Do you feel your independence is affected by living with parents/in-laws?",
+        "How does living with parents/in-laws influence your relationship with your partner (if applicable)?",
+        "What role do parents/in-laws play in household decision-making?",
+        "How do you manage conflicts or disagreements with parents/in-laws?",
+        "Do you feel supported emotionally by your parents/in-laws when living together?",
+        "How do cultural or traditional expectations influence your decision to live with parents/in-laws?",
+        "Do you feel pressure to conform to the lifestyle or habits of your parents/in-laws?",
+        "How does living with parents/in-laws affect your financial situation?",
+        "Do you think living with parents/in-laws strengthens family bonds?",
+        "How does living with parents/in-laws impact your parenting style (if applicable)?",
+        "Do you feel you have enough personal space when living with parents/in-laws?",
+        "How do you divide household responsibilities when living with parents/in-laws?",
+        "What are your concerns about the long-term sustainability of living with parents/in-laws?",
+        "How does living with parents/in-laws affect your social life?",
+        "Do you feel judged or criticized by parents/in-laws when living together?",
+        "How do you handle differences in lifestyle or habits with parents/in-laws?",
+        "Do you think living with parents/in-laws is common in your culture or community?",
+        "How does living with parents/in-laws impact your mental health?",
+        "Do you feel living with parents/in-laws helps you save money?",
+        "What are your concerns about privacy when living with parents/in-laws?",
+        "How do you handle boundaries when living with parents/in-laws?",
+        "Do you feel pressure to care for your parents/in-laws when living together?",
+        "How do parents/in-laws influence your career choices or work-life balance?",
+        "Do you feel living with parents/in-laws affects your ability to make personal decisions?",
+        "What are your expectations from parents/in-laws when living together?",
+        "How do you communicate effectively with parents/in-laws when living together?",
+        "Do you think living with parents/in-laws is a temporary or permanent arrangement for you?",
+        "What are your biggest concerns about living with parents/in-laws?",
+        "How does living with parents/in-laws affect your daily routine?",
+        "Do you feel living with parents/in-laws creates a sense of security?",
+        "What compromises have you made to live with parents/in-laws?",
+        "Do you feel living with parents/in-laws impacts your ability to host guests or entertain?",
+        "How do you navigate generational differences when living with parents/in-laws?",
+        "Do you feel living with parents/in-laws is a necessity or a choice?",
+        "How do you think living with parents/in-laws affects your family dynamics?",
+        "What factors would influence your decision to move out from living with parents/in-laws?"
+    ],
+    "instructions": {
+        "No": {
+            "option_code": "1",
+            "instructions": [
+                "You are an independent individual who values personal space and autonomy, focusing on building your own household dynamic.",
+                "You are a career-oriented person who prioritizes living separately to better manage work-life balance and foster independence.",
+                "You are someone who prefers privacy and freedom, seeking a lifestyle where decisions and routines are entirely self-driven.",
+                "You are an adventurous individual who enjoys exploring new environments and experiences, thriving in a home away from parental influences.",
+                "You are a planner who believes in establishing boundaries and creating a distinct living arrangement to promote long-term personal growth."
+            ]
+        },
+        "Yes, own parent(s)": {
+            "option_code": "2",
+            "instructions": [
+                "You are a supportive adult child who values intergenerational bonding and enjoys the wisdom your parents bring to daily life.",
+                "You are a pragmatic individual who sees living with parents as a mutually beneficial arrangement for sharing responsibilities and reducing expenses.",
+                "You are a family-oriented person who prioritizes caregiving for aging parents while balancing your own personal aspirations.",
+                "You are a respectful housemate who navigates occasional generational differences with patience and humor.",
+                "You are a traditionalist who cherishes cultural customs and familial closeness fostered by living with your parents."
+            ]
+        },
+        "Yes, parent(s)-in-law": {
+            "option_code": "3",
+            "instructions": [
+                "You are a considerate individual who values harmony and strives to maintain a peaceful relationship with your in-laws while sharing the same household.",
+                "You are a humorous mediator who lightens tense situations and ensures everyone feels included in family discussions with your in-laws.",
+                "You are a diligent planner who organizes shared spaces and schedules to ensure a smooth living arrangement with your in-laws.",
+                "You are a respectful listener who actively seeks your in-laws' advice and incorporates their wisdom into family decisions.",
+                "You are a creative problem-solver who navigates occasional differences with your in-laws by proposing innovative compromises."
+            ]
+        },
+        "Yes, both own parent(s) and parent(s)-in-law": {
+            "option_code": "4",
+            "instructions": [
+                "You are a family-oriented individual who finds joy in living with both your parents and in-laws. Emphasize the importance of shared values and mutual respect in your household.",
+                "You are a mediator who navigates occasional intergenerational differences with patience and diplomacy, ensuring harmony between your parents and in-laws.",
+                "You are a caregiver who takes pride in supporting and nurturing both your parents and in-laws, balancing their needs with your own personal goals.",
+                "You are a cultural enthusiast who enjoys exchanging traditions and customs between your family and your in-laws, fostering a rich, blended household dynamic.",
+                "You are a practical problem-solver who excels at organizing shared living spaces and responsibilities, creating a cooperative environment for all family members."
+            ]
+        }
+    }
+}

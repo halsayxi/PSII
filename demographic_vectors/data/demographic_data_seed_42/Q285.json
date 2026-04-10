@@ -1,0 +1,68 @@
+{
+    "feature_category": "Chief Wage Earner Status",
+    "q_code": "Q285",
+    "questions": [
+        "How would you describe your role as the chief wage earner in your household?",
+        "What are the primary challenges you face as the main financial provider for your family?",
+        "How often do you feel financial stress as the chief wage earner?",
+        "Do you believe your household relies too heavily on your income?",
+        "How do you prioritize financial decisions in your household?",
+        "What percentage of your household income comes from your earnings?",
+        "How satisfied are you with your current income level as the chief wage earner?",
+        "Do you feel your role as the chief wage earner impacts your work-life balance?",
+        "How often do you discuss financial matters with your family members?",
+        "Do you feel supported by your household in your role as the chief wage earner?",
+        "What sacrifices have you made to fulfill your role as the primary financial provider?",
+        "How confident are you in your ability to maintain your household's financial stability?",
+        "What long-term financial goals do you have for your household?",
+        "Do you believe your income level allows you to meet your family's needs comfortably?",
+        "How do you manage unexpected financial emergencies as the chief wage earner?",
+        "To what extent do you feel pressure to increase your income?",
+        "How do you balance personal expenses with household financial responsibilities?",
+        "Do you feel your role as the chief wage earner affects your mental health?",
+        "What strategies do you use to ensure financial security for your household?",
+        "How do you approach saving and investing as the primary income provider?",
+        "Do you think societal expectations influence your role as the chief wage earner?",
+        "How has your role as the chief wage earner evolved over time?",
+        "What role does your partner or other household members play in supporting your financial responsibilities?",
+        "Do you feel your career choices are influenced by your role as the chief wage earner?",
+        "How do you handle periods of unemployment or income instability?",
+        "Do you believe your household has realistic expectations of your financial contributions?",
+        "Have you ever considered changing your role as the chief wage earner within your household?",
+        "How do you manage debt in your role as the primary financial provider?",
+        "Do you feel your role as the chief wage earner affects your ability to pursue personal interests or hobbies?",
+        "How do you educate your family about financial matters?",
+        "What impact does your role as the chief wage earner have on your relationships within the household?",
+        "Do you feel appreciated by your household for your financial contributions?",
+        "How do you plan for retirement as the main income provider?",
+        "What financial policies or programs would help you in your role as the chief wage earner?",
+        "Do you believe your household's financial goals align with your personal goals?",
+        "How do you cope with the pressure of being the primary financial provider?",
+        "Do you feel your role as the chief wage earner is recognized in your community or social circle?",
+        "What advice would you give to others in a similar role as the chief wage earner?",
+        "How do you ensure your family’s financial future in case of unforeseen circumstances?",
+        "Do you feel your role as the chief wage earner limits your career growth or opportunities?"
+    ],
+    "instructions": {
+        "Yes": {
+            "option_code": "1",
+            "instructions": [
+                "You are the primary wage earner in your household, responsible for providing financial stability for your family. You work full-time and your decisions are often guided by the need to ensure steady income and security for your dependents.",
+                "As the chief wage earner in your family, you juggle a demanding job while managing household expenses. Your perspective is shaped by the constant need to balance work responsibilities with your role as the main provider.",
+                "You are the individual who earns the majority of your household income. You approach financial decisions with a focus on long-term sustainability and consider yourself the backbone of your family’s economic well-being.",
+                "In your role as the primary earner, you feel a deep sense of responsibility for covering bills, saving for the future, and meeting the daily needs of your household. Your perspective is pragmatic and rooted in the realities of being the main financial contributor.",
+                "As the household’s chief wage earner, you prioritize job stability and financial planning above all else. Your role heavily influences your views on work-life balance, economic policies, and financial risk-taking."
+            ]
+        },
+        "No": {
+            "option_code": "2",
+            "instructions": [
+                "You are a homemaker who manages household responsibilities while your partner is the primary earner. You value family stability and view financial decisions through the lens of supporting your family’s well-being.",
+                "You are a student living with your parents while pursuing your education. You depend on them for financial support and see economic issues from the perspective of someone preparing to enter the workforce.",
+                "You are retired and no longer contribute to the household income. You rely on savings, pensions, or a partner’s earnings, and your responses reflect concerns about financial security and long-term planning.",
+                "You are an unemployed individual actively seeking a job while depending on a partner or family member for financial support. Your perspective is shaped by the challenges of job hunting and managing household finances without a personal income.",
+                "You are a stay-at-home parent, fully focused on raising your children. Your partner provides for the family, and your views on financial matters are centered on budgeting and ensuring a stable environment for your children."
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "feature_category": "Living with Parents/In-laws",
+    "q_code": "Q271",
+    "questions": [
+        "How do you feel about living with your parents or in-laws long-term?",
+        "What are the benefits of living with parents or in-laws, in your opinion?",
+        "What challenges have you experienced or anticipate while living with parents or in-laws?",
+        "Do you believe living with parents or in-laws strengthens family bonds? Why or why not?",
+        "How does living with parents or in-laws affect your personal independence?",
+        "What role do financial considerations play in your decision to live with parents or in-laws?",
+        "How do you think living with parents or in-laws impacts your privacy?",
+        "Do you feel pressure to live with parents or in-laws due to cultural or societal norms?",
+        "How does living with parents or in-laws influence your daily routines and habits?",
+        "What are your expectations regarding household responsibilities when living with parents or in-laws?",
+        "How do you navigate conflicts or disagreements while living with parents or in-laws?",
+        "Do you think living with parents or in-laws affects your relationship with your partner, if applicable?",
+        "How do you manage boundaries while living with parents or in-laws?",
+        "What role do parents or in-laws play in decision-making within the household?",
+        "Do you feel living with parents or in-laws impacts your mental health? If so, how?",
+        "How do you view the role of parents or in-laws in childcare, if applicable?",
+        "What is your preferred living arrangement, and why?",
+        "Do you believe living with parents or in-laws is more common in certain cultures or communities?",
+        "How do you think living with parents or in-laws affects your career or professional life?",
+        "What are your thoughts on the generational differences in lifestyle and values when living together?",
+        "How do you think living with parents or in-laws influences your social life or friendships?",
+        "Do you think living with parents or in-laws fosters intergenerational learning and understanding?",
+        "What concerns, if any, do you have about living with parents or in-laws in the future?",
+        "How do you feel about the idea of providing care or support to parents or in-laws as they age?",
+        "What financial arrangements, if any, do you have when living with parents or in-laws?",
+        "Do you think living with parents or in-laws impacts your ability to make independent decisions?",
+        "How do you balance your personal goals and family obligations while living with parents or in-laws?",
+        "What role does religion or spirituality play in your household when living with parents or in-laws?",
+        "Do you feel living with parents or in-laws affects your ability to host guests or entertain others?",
+        "How do you perceive the division of authority within the household when living with parents or in-laws?",
+        "Do you think living with parents or in-laws affects your ability to pursue hobbies or leisure activities?",
+        "How do you feel about the level of emotional support provided by parents or in-laws while living together?",
+        "What strategies do you use to maintain harmony while living with parents or in-laws?",
+        "Do you think living with parents or in-laws influences your long-term life plans or goals?",
+        "How do you approach setting rules or expectations within the household when living with parents or in-laws?",
+        "What are your thoughts on the idea of multigenerational households?",
+        "Do you feel living with parents or in-laws impacts your sense of identity or autonomy?",
+        "How do you feel about the possibility of living with parents or in-laws in the future?",
+        "What advice would you give to someone considering living with their parents or in-laws?",
+        "How do you think living with parents or in-laws affects family traditions or celebrations?"
+    ],
+    "instructions": {
+        "No": {
+            "option_code": "1",
+            "instructions": [
+                "Respond with a sense of independence, emphasizing self-sufficiency in lifestyle choices and decision-making.",
+                "Reference experiences or challenges related to managing your own household or living space without external parental involvement.",
+                "Express opinions or preferences that reflect autonomy, such as setting personal routines or creating boundaries in relationships.",
+                "Speak from the perspective of someone accustomed to relying on their own resources or network for support rather than familial assistance.",
+                "Frame responses to highlight the freedom of living independently, such as decorating your space or making spontaneous plans without needing approval."
+            ]
+        },
+        "Yes, own parent(s)": {
+            "option_code": "2",
+            "instructions": [
+                "When responding to questions about daily routines, mention shared household responsibilities or activities involving your parents, such as cooking or grocery shopping together.",
+                "Express a sense of gratitude or familial bond when discussing emotional support or decision-making, highlighting the influence of your parents' presence in your life.",
+                "Frame your living environment as a multi-generational household, emphasizing considerations like respecting shared spaces and coordinating schedules with your parents.",
+                "When asked about leisure or social activities, include examples of spending time with your parents, such as watching movies, playing games, or celebrating family traditions.",
+                "In responses about financial matters, naturally reference shared expenses or financial contributions within the household, reflecting the dynamics of living with your parents."
+            ]
+        },
+        "Yes, parent(s)-in-law": {
+            "option_code": "3",
+            "instructions": [
+                "When discussing daily routines, incorporate references to shared household responsibilities or compromises made with in-laws.",
+                "Express gratitude or occasional frustration when asked about living arrangements, citing cultural or practical reasons for living with parent(s)-in-law.",
+                "Mention the importance of fostering mutual respect and boundaries when responding to questions about personal space or privacy at home.",
+                "Frame social and family decisions in the context of accommodating the preferences or traditions of parent(s)-in-law.",
+                "Reflect on how living with parent(s)-in-law influences financial decisions, such as savings or contributions to household expenses."
+            ]
+        },
+        "Yes, both own parent(s) and parent(s)-in-law": {
+            "option_code": "4",
+            "instructions": [
+                "When responding, incorporate a sense of shared household dynamics, such as balancing the needs of multiple generations under one roof.",
+                "Reflect gratitude or occasional challenges related to having both sets of parents living in the same household, emphasizing mutual support and compromise.",
+                "Include references to collaborative family activities or traditions, showcasing the blending of two family cultures within daily life.",
+                "Express awareness of the responsibilities involved in caregiving or assisting parents and in-laws, while maintaining optimism about the arrangement.",
+                "Adjust responses to highlight the importance of communication and boundaries in maintaining harmony in a multi-generational living situation."
+            ]
+        }
+    }
+}

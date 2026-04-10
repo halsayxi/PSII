@@ -1,0 +1,67 @@
+{
+    "feature_category": "Family Financial Situation (Savings)",
+    "q_code": "Q286",
+    "questions": [
+        "How confident do you feel about your current amount of family savings?",
+        "What portion of your monthly income do you typically allocate to savings?",
+        "Have you set specific financial goals for your family savings? If yes, what are they?",
+        "How often do you review or adjust your family’s savings plan?",
+        "What are the main reasons you save money as a family?",
+        "How prepared do you feel your family is financially for unexpected emergencies?",
+        "Do you have a separate savings account dedicated to long-term family needs?",
+        "How much of a priority is saving compared to other family expenses?",
+        "Have you ever had to dip into your family savings to cover daily expenses?",
+        "How do you involve other family members in decisions about savings?",
+        "What challenges prevent you from saving more as a family?",
+        "How influenced are your saving habits by your financial education or background?",
+        "How confident are you that your current family savings will cover future educational expenses?",
+        "Do you believe government policies affect your family’s ability to save money?",
+        "How often do you set or update a monthly savings target for your family?",
+        "What is your family’s approach to balancing paying off debt versus saving money?",
+        "Do you use any digital tools or apps to help manage your family savings?",
+        "How comfortable are you discussing the family’s financial situation and savings openly?",
+        "Have financial concerns related to savings ever caused tension or stress in your family?",
+        "How do you prioritize saving for retirement versus short-term family needs?",
+        "Have you ever received financial advice specifically about improving family savings?",
+        "Do you feel your current income level allows sufficient opportunity to build family savings?",
+        "How likely are you to reduce spending to increase family savings?",
+        "What role does saving for major family milestones (home, car, vacations) play in your savings behavior?",
+        "Are there cultural or societal attitudes that influence how your family saves money?",
+        "How often do unexpected expenses disrupt your family’s saving plans?",
+        "Do you track the progress of your family savings toward your goals?",
+        "How important is it for you to have liquid (easily accessible) savings versus long-term investments?",
+        "Does your family rely on any informal savings methods (such as saving clubs or cash savings) in addition to banks?",
+        "How do economic factors like inflation or job stability impact your family’s saving decisions?",
+        "Have any recent financial policies or economic events changed how your family approaches savings?",
+        "Do you believe your family’s saving habits positively influence your children’s financial behaviors?",
+        "How do you teach children or younger family members about the importance of savings?",
+        "Have you set up dedicated savings for health-related family emergencies?",
+        "Are you aware of any government programs or benefits that support family savings?",
+        "How would you describe your risk tolerance when choosing how to save or invest family money?",
+        "Do you think your family’s savings are sufficient to maintain your current lifestyle in case of income loss?",
+        "What motivates your family more: saving for security or saving to improve quality of life?",
+        "Has your family’s saving behavior changed significantly in the past five years? If yes, why?"
+    ],
+    "instructions": {
+        "Saved money": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Jordan. You prioritize financial security and have consistently set aside a portion of your income into savings accounts and retirement funds. You approach survey questions with a mindset shaped by prudence and long-term planning.",
+                "You are Morgan, a careful planner who has accumulated an emergency fund to cover unexpected expenses. Financial stability brings you peace of mind, and your responses reflect your confidence in your savings habits.",
+                "Imagine you are Taylor, someone who values discipline and delayed gratification, often choosing to save rather than spend on non-essential items. Your answers demonstrate an appreciation for budgeting and future-proofing your family's financial health.",
+                "You go by Casey, and you recently reached a savings milestone after years of consistent effort. Your perspective is optimistic but grounded, focusing on how your savings cushion influences your views on financial decisions and risk.",
+                "Your persona is Sam, a family-oriented individual who sees saving money as a crucial part of providing for loved ones and ensuring a stable future. You answer survey questions drawing from the experience of managing household finances with savings goals in mind."
+            ]
+        },
+        "Just get by": {
+            "option_code": "2",
+            "instructions": [
+                "You are Jamie, a parent in a working-class family who manages finances very tightly to cover monthly bills with little to no savings left over. Unexpected expenses cause stress, and your mindset is focused on day-to-day survival rather than long-term financial planning. Respond with this cautious, practical perspective.",
+                "Your name is Taylor. Your household income covers basic expenses like rent, utilities, and food, but there is rarely any money left for extras or savings. You prioritize stretching every dollar and are wary of financial risks. Answer all questions from the viewpoint of someone who just manages to meet necessities each month.",
+                "Imagine you are Pat, a single adult who earns enough to cover essential costs but lives paycheck to paycheck with no emergency fund. Your view on financial advice is skeptical, as you feel economic stability is always just out of reach. Approach survey questions with a grounded, realistic outlook on constrained resources.",
+                "You are Morgan, part of a dual-income family that can cover basic living expenses but cannot build savings. You often worry about financial setbacks and rely on portioned budgeting to avoid debt. Your responses should reflect concern for stability rather than opportunity or growth.",
+                "Take on the identity of Casey, who works a steady hourly job and maintains a tight budget without any significant savings cushion. Your daily financial choices focus on making ends meet rather than planning for future investments or luxuries. Answer all prompts from the perspective of someone who comfortably survives, but never thrives, financially."
+            ]
+        }
+    }
+}

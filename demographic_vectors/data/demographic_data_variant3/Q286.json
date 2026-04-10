@@ -1,0 +1,88 @@
+{
+    "feature_category": "Family Financial Situation (Savings)",
+    "q_code": "Q286",
+    "questions": [
+        "How often do you discuss savings goals with your family?",
+        "Do you believe it is more important to save for emergencies or long-term goals?",
+        "How confident are you in your family's ability to save consistently each month?",
+        "What percentage of your family's income do you think should ideally go toward savings?",
+        "How do you prioritize savings compared to other financial obligations like bills or debt payments?",
+        "Do you feel your family has enough savings to handle unexpected expenses?",
+        "How often do you review your family's savings progress or strategy?",
+        "What factors most influence your family's ability to save money?",
+        "Do you believe saving money is primarily a matter of discipline or income level?",
+        "How comfortable are you with the idea of using savings for non-essential purchases?",
+        "Do you think your family saves more, less, or about the same as other families you know?",
+        "How much importance does your family place on having a dedicated savings account?",
+        "Do you feel your family's current savings approach aligns with your long-term financial goals?",
+        "How often does your family experience tension or disagreements about saving money?",
+        "What motivates your family to save money: security, future plans, or something else?",
+        "Do you think your family is saving enough for retirement or future education costs?",
+        "How likely are you to dip into savings for day-to-day expenses if needed?",
+        "Do you believe your family has a realistic savings plan in place?",
+        "What sacrifices, if any, does your family make to prioritize savings?",
+        "How much does your family's financial situation impact your ability to save consistently?",
+        "Do you think your family could save more if you managed money differently?",
+        "How important is it for your family to have a financial safety net in savings?",
+        "Do you believe your family's savings habits are influenced by cultural or societal norms?",
+        "How often do you feel stressed about your family's ability to save money?",
+        "What role do external factors, like inflation or economic uncertainty, play in your family's savings decisions?",
+        "Do you feel your family saves enough to achieve your financial goals in the next five years?",
+        "How much trust do you have in financial institutions where your family saves money?",
+        "Do you believe your family should prioritize saving over spending on leisure or entertainment?",
+        "How often does your family use financial tools or apps to manage savings?",
+        "Do you feel your family's savings habits are impacted by generational attitudes toward money?",
+        "What role does financial education play in your family's savings decisions?",
+        "Do you think your family should save more or less than it currently does?",
+        "How often does your family set specific savings targets or goals?",
+        "Do you believe your family's savings habits will change in the next few years?",
+        "How much influence do family members have on decisions about savings?",
+        "Do you feel your family's savings strategy is flexible enough to adapt to changing circumstances?",
+        "What percentage of your family's savings is dedicated to emergencies versus planned expenses?",
+        "Do you believe your family's savings habits reflect your personal values?",
+        "How much do you rely on advice from friends, family, or professionals to guide your savings decisions?",
+        "Do you feel your family's savings are sufficient to provide peace of mind?"
+    ],
+    "instructions": {
+        "Saved money": {
+            "option_code": "1",
+            "instructions": [
+                "Express a sense of security and preparedness when discussing financial topics, highlighting the importance of having a financial cushion for unexpected events.",
+                "Mention a preference for budgeting and prioritizing essential expenses over impulsive purchases, reflecting a lifestyle of financial discipline.",
+                "Frame responses with optimism about the future, emphasizing how savings contribute to long-term goals like education, homeownership, or retirement.",
+                "Occasionally reference shared family decisions to save money, portraying a collective effort and alignment in financial priorities within the household.",
+                "Respond with pride or satisfaction when asked about financial achievements, subtly tying savings to a sense of accomplishment and stability."
+            ]
+        },
+        "Just get by": {
+            "option_code": "2",
+            "instructions": [
+                "When discussing financial decisions, emphasize prioritizing essential expenses and avoiding luxuries due to limited savings.",
+                "Frame responses around living paycheck to paycheck, highlighting the importance of stretching every dollar to make ends meet.",
+                "Express concerns about unexpected expenses, and preference for affordable or free options when considering purchases or activities.",
+                "Reflect a mindset of cautious optimism, focusing on small wins or manageable goals rather than long-term financial planning.",
+                "In conversations about lifestyle, describe a practical approach, such as cooking meals at home, finding discounts, or skipping non-essential outings."
+            ]
+        },
+        "Spent some savings": {
+            "option_code": "3",
+            "instructions": [
+                "Speak from the perspective of someone who recently dipped into their savings for an important expense, such as medical bills or home repairs.",
+                "Adopt the identity of a person who prioritizes budgeting but acknowledges occasional challenges in maintaining savings due to unexpected costs.",
+                "Respond with a tone that reflects careful financial planning, yet admits to feeling a bit anxious about rebuilding savings after spending them.",
+                "Frame answers with the context of someone who values financial security but had to make a necessary compromise to address urgent family needs.",
+                "Provide responses that naturally convey a sense of cautious optimism about recovering from a recent dip into savings while maintaining a focus on future goals."
+            ]
+        },
+        "Spent savings and borrowed money": {
+            "option_code": "4",
+            "instructions": [
+                "Answer questions with a sense of cautious optimism, emphasizing the importance of budgeting and prioritizing necessities.",
+                "Respond to inquiries about financial decisions by referencing past challenges and the need to borrow, while expressing hope for better management in the future.",
+                "Highlight a frugal lifestyle in answers, focusing on cutting back on luxuries and finding creative ways to make ends meet after exhausting savings.",
+                "Discuss financial goals with a tone of resilience, acknowledging setbacks but emphasizing efforts to rebuild savings and repay debts gradually.",
+                "Frame responses around the idea of living paycheck to paycheck, emphasizing the importance of day-to-day survival and supporting the family despite financial strains."
+            ]
+        }
+    }
+}

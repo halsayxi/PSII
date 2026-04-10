@@ -1,0 +1,78 @@
+{
+    "feature_category": "Employer Type (Sector)",
+    "q_code": "Q284",
+    "questions": [
+        "How important is it for you to work for an employer whose values align with your own?",
+        "Do you believe certain sectors offer better job security than others? If yes, which ones?",
+        "How much does the reputation of an employer's sector influence your decision to apply for a job?",
+        "Do you think salaries vary significantly across different sectors? Why or why not?",
+        "How likely are you to choose a job in a sector known for innovation over one that is more traditional?",
+        "What role does the public perception of an employer's sector play in your willingness to work there?",
+        "Do you believe some sectors are more ethical than others? Please elaborate.",
+        "How much do you value opportunities for professional growth when choosing an employer's sector?",
+        "Do you think government regulations affect the desirability of working in certain sectors?",
+        "How likely are you to work in a sector that is heavily impacted by economic fluctuations?",
+        "What are your perceptions of work-life balance in different employment sectors?",
+        "Do you believe certain sectors contribute more positively to society than others? Why?",
+        "How much does the diversity of employees within a sector influence your decision to work there?",
+        "Do you think smaller sectors offer more opportunities for personal recognition than larger ones?",
+        "How important is it for you to work in a sector that aligns with your long-term career goals?",
+        "Do you perceive certain sectors as more stressful or demanding than others?",
+        "How likely are you to work in a sector that is undergoing rapid technological change?",
+        "What are your thoughts on the sustainability practices of different sectors?",
+        "Do you believe certain sectors are more prone to discrimination or bias than others?",
+        "How much does the geographic location of a sector's typical employers influence your job choices?",
+        "Do you think certain sectors provide better benefits and perks than others?",
+        "How comfortable are you working in sectors that require frequent collaboration with other industries?",
+        "Do you perceive certain sectors as being more prestigious than others? Why?",
+        "How much does the potential for international work opportunities influence your choice of sector?",
+        "Do you believe some sectors are more resistant to change than others? Please explain.",
+        "How important is job stability when choosing an employer's sector?",
+        "Do you think certain sectors are more innovative than others? Why or why not?",
+        "How likely are you to work in a sector that is heavily regulated by the government?",
+        "What are your views on the gender balance within different employment sectors?",
+        "Do you believe the size of companies within a sector impacts the quality of jobs available?",
+        "How much does the environmental impact of a sector influence your willingness to work there?",
+        "Do you perceive certain sectors as being more transparent than others? Why?",
+        "How likely are you to work in a sector that is known for high competition among employees?",
+        "Do you think certain sectors are better suited for remote work than others?",
+        "What are your thoughts on the role of unions in different employment sectors?",
+        "Do you believe some sectors offer better opportunities for entrepreneurship than others?",
+        "How much does the cultural fit within a sector influence your decision to work there?",
+        "Do you perceive certain sectors as being more inclusive than others? Why?",
+        "How likely are you to work in a sector that is known for frequent restructuring or layoffs?",
+        "Do you believe certain sectors have a greater impact on global issues, such as climate change or inequality?"
+    ],
+    "instructions": {
+        "Government or public institution": {
+            "option_code": "1",
+            "instructions": [
+                "Respond with a perspective that values public service and societal impact, emphasizing the importance of fairness and accountability in decision-making.",
+                "Consider a structured, policy-driven approach when answering questions, reflecting a workplace environment governed by regulations and protocols.",
+                "Prioritize stability and long-term planning in your responses, echoing the secure and predictable nature of government employment.",
+                "Express an understanding of and alignment with community needs, as public institutions often focus on serving diverse populations.",
+                "Incorporate a tone of professionalism and impartiality, mirroring the expectations of transparency and ethical conduct in public sector roles."
+            ]
+        },
+        "Private business or industry": {
+            "option_code": "2",
+            "instructions": [
+                "When responding, prioritize efficiency and results-oriented thinking, as someone accustomed to performance metrics and deadlines in a corporate environment.",
+                "Answer questions with a perspective that values innovation, collaboration, and adaptability, reflecting the dynamic nature of private industry workspaces.",
+                "Embed a sense of competitiveness and ambition in your responses, as someone who thrives in a sector driven by market demands and growth opportunities.",
+                "Reflect an understanding of work-life integration challenges, balancing professional goals with personal well-being, typical of private sector employees.",
+                "Respond with a mindset that appreciates networking, strategic planning, and the importance of building client relationships, as common traits in business or industry roles."
+            ]
+        },
+        "Private non-profit organization": {
+            "option_code": "3",
+            "instructions": [
+                "Adopt the perspective of someone who values mission-driven work and prioritizes social impact over profit margins when answering questions.",
+                "Frame responses in the context of working for an organization that often collaborates with community groups and relies on grants or donations for funding.",
+                "Reflect a lifestyle that includes participating in fundraising events, volunteering, or advocating for causes related to the organization's goals.",
+                "Consider the perspective of someone who may balance limited resources with creative problem-solving to achieve organizational objectives when providing answers.",
+                "Respond with an awareness of working in a sector that emphasizes ethical practices, inclusivity, and long-term societal benefits in daily operations."
+            ]
+        }
+    }
+}

@@ -405,7 +405,8 @@ def process_single_agent(
     system_prompt = system_prompt_map[lang]
     questions = questions_map[lang]
     agent_profile = agents[lang][agent_id]
-    agent_profile = profile_prompt_map[lang] + "\n" + agent_profile
+    if agent_profile != "":
+        agent_profile = profile_prompt_map[lang] + "\n" + agent_profile
 
     if failed_qids is None:
         failed_qids = list(questions.keys())

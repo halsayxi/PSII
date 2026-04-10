@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "What is your current immigrant status (e.g., citizen, permanent resident, temporary visa holder, undocumented)?",
+        "How long have you lived in your current country of residence?",
+        "What motivated your decision to immigrate to your current country?",
+        "Do you feel welcomed by the local community in your current country of residence?",
+        "What challenges have you faced as an immigrant in your current country?",
+        "How would you rate your access to healthcare services in your current country as an immigrant?",
+        "Do you feel that your immigrant status impacts your ability to find employment opportunities?",
+        "What is your perception of the immigration policies in your current country?",
+        "Have you experienced discrimination based on your immigrant status?",
+        "Do you believe immigrants contribute positively to the economy of your current country?",
+        "How important is preserving your cultural heritage while living in a different country?",
+        "Do you feel pressure to assimilate into the local culture of your current country?",
+        "Have you had difficulties accessing education or training opportunities due to your immigrant status?",
+        "What is your level of satisfaction with your housing situation as an immigrant?",
+        "Do you feel safe in your current country of residence as an immigrant?",
+        "How often do you interact with people outside of your immigrant community?",
+        "Do you believe your immigrant status affects your ability to form social connections in your current country?",
+        "What role does language play in your daily life as an immigrant?",
+        "Have you faced legal challenges related to your immigrant status?",
+        "How would you describe your mental health since immigrating to your current country?",
+        "Do you feel that media representations of immigrants in your current country are fair and accurate?",
+        "Have you participated in local or national elections in your current country, if eligible?",
+        "Do you feel that immigrants are adequately represented in government or leadership positions in your current country?",
+        "What is your opinion on the availability of social services for immigrants in your current country?",
+        "Do you feel that your immigrant status affects your ability to access financial services, such as banking or loans?",
+        "How do you perceive the attitudes of locals toward immigrants in your current country?",
+        "Do you feel that your immigrant status has affected your ability to build a career or advance professionally?",
+        "Have you been able to maintain connections with family or friends in your home country since immigrating?",
+        "What is your level of comfort navigating legal and bureaucratic systems in your current country as an immigrant?",
+        "Do you feel that your children (if applicable) face challenges due to your immigrant status?",
+        "How has your immigrant status influenced your ability to travel internationally?",
+        "Do you believe that immigrants face stereotypes or biases in your current country?",
+        "What is your opinion on the role of immigrants in shaping the culture of your current country?",
+        "Do you feel that your immigrant status impacts your ability to access mental health resources?",
+        "Have you encountered language barriers that have affected your daily life as an immigrant?",
+        "Do you feel that you have equal opportunities compared to non-immigrants in your current country?",
+        "What is your opinion on the role of immigration in addressing labor shortages in your current country?",
+        "Do you believe immigrants are treated fairly in the legal system in your current country?",
+        "Have you ever considered returning to your home country? If so, why?",
+        "How do you perceive the long-term impact of your immigrant status on your personal and professional life?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "You are a middle-aged individual who grew up in a suburban area and values community traditions. You feel strongly about preserving local cultural norms and are cautious about rapid demographic changes.",
+                "You are a young adult from an urban environment who embraces diversity and enjoys learning about other cultures. You believe that immigration enriches the country and are passionate about inclusion.",
+                "You are a senior citizen who spent your life working in a rural farming community. You are proud of your country's heritage and feel that newcomers should adopt local values to integrate better.",
+                "You are a college student from a small town who is curious about immigration policies and their impact. You have mixed feelings, appreciating cultural exchange but worrying about job competition.",
+                "You are a working parent from a metropolitan area who is focused on economic stability. You support immigration if it contributes positively to the economy but are concerned about resource allocation."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "You are a recent immigrant who moved to this country two years ago for better career opportunities. You are optimistic about your future here but occasionally feel overwhelmed by cultural differences and language barriers.",
+                "You immigrated to this country five years ago as a refugee. You are grateful for the safety and opportunities provided but feel frustrated by the slow bureaucratic processes and occasional discrimination you face.",
+                "You are a first-generation immigrant who came to this country ten years ago to join family already living here. You are proud of your heritage and actively participate in cultural events while striving to fully integrate into society.",
+                "You immigrated to this country as a student and have lived here for three years. You are excited about the educational opportunities and have a positive outlook but feel uncertain about long-term residency due to visa restrictions.",
+                "You moved to this country fifteen years ago to start a business. You feel confident and experienced in navigating the system but occasionally worry about maintaining ties to your cultural roots as you’ve fully adapted to the local way of life."
+            ]
+        }
+    }
+}

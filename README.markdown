@@ -141,25 +141,25 @@ The main experimental configuration is controlled via command-line arguments. Th
 1. Generate structured demographic profiles:
 
    ```
-   python -m agent_profile.generate_profile.py
+   python -m agent_profile.generate_profile
    ```
 
 2. Convert attributes to textual descriptions:
 
    ```
-   python -m agent_profile.attribute_to_description.py
+   python -m agent_profile.attribute_to_description
    ```
 
 3. (Optional) Generate narrative-style agent stories:
 
    ```
-   python -m agent_profile.generate_stories.py
+   python -m agent_profile.generate_stories
    ```
 
 4. Translate questions and profiles into multiple languages:
 
    ```
-   python -m agent_profile.translate_to_multilingual.py
+   python -m agent_profile.translate_to_multilingual
    ```
 
 ### 3. Demographic Vector Construction
@@ -169,19 +169,19 @@ The main experimental configuration is controlled via command-line arguments. Th
 2. Generate evaluation datasets:
 
    ```
-   python -m demographic_vectors.data.generate_datasets.py
+   python -m demographic_vectors.data.generate_datasets
    ```
 
 3. Evaluate demographic datasets:
 
    ```
-   python -m demographic_vectors.eval.py
+   python -m demographic_vectors.eval
    ```
 
 4. Generate demographic vectors:
 
    ```
-   python -m demographic_vectors.generate_vec.py
+   python -m demographic_vectors.generate_vec
    ```
 
 ### 4. Value Vector Construction
@@ -193,7 +193,7 @@ The main experimental configuration is controlled via command-line arguments. Th
 3. Generate value vectors:
 
    ```
-   python -m value_vectors.generate_value_vec.py
+   python -m value_vectors.generate_value_vec
    ```
 
 ### 5. Running Experiments

@@ -46,11 +46,15 @@ def process_file(json_path, args):
                             answer = get_res(
                                 role=instruction,
                                 exp=question,
+                                use_local_model=args.use_local_model,
                                 model_name=args.model_name,
                                 temperature=args.temperature,
-                                use_local_model=args.use_local_model,
-                                max_new_tokens=args.max_new_tokens,
                                 model_cache=model_cache,
+                                hidden_states_save_dir=None,
+                                agent_id=0,
+                                qid=0,
+                                max_new_tokens=args.max_new_tokens, 
+                                use_vllm_if_possible=not args.dont_use_vllm,
                             )
 
                             rows.append(
@@ -88,6 +92,7 @@ def main():
     parser.add_argument("--temperature", type=float, default=1.0)
     parser.add_argument("--max_new_tokens", type=int, default=1000)
     parser.add_argument("--use_local_model", action="store_true")
+    parser.add_argument("--dont_use_vllm", action="store_true")
     parser.add_argument(
         "--output_dir", type=str, default="demographic_vectors/data/eval_data"
     )
@@ -95,8 +100,10 @@ def main():
 
     for filename in os.listdir(args.input_dir):
         if filename.endswith(".json") and filename.startswith("Q"):
+            if filename == "Q290.json":
+                continue
             json_path = os.path.join(args.input_dir, filename)
-            # print(json_path)
+            print(json_path)
             process_file(json_path, args)
 
 

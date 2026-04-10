@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "Which of the following best describes your current immigration status (e.g., naturalized citizen, permanent resident, temporary visa holder, refugee/asylum seeker, undocumented, other)?",
+        "How long have you lived in your current country of residence?",
+        "How strongly do you identify as an immigrant on a personal level?",
+        "How often do you worry about the possibility of deportation or losing your immigration status?",
+        "Have you ever been denied access to public services (healthcare, education, housing, benefits) because of your immigration status?",
+        "How comfortable are you disclosing your immigration status to an employer or potential employer?",
+        "Have you personally experienced discrimination or harassment explicitly because you are an immigrant?",
+        "To what extent do you believe immigrants receive fair treatment in the legal and judicial systems of this country?",
+        "How confident are you in your ability to understand and complete immigration-related paperwork and applications?",
+        "Have language barriers limited your ability to access healthcare, education, legal help, or employment opportunities?",
+        "How often do you avoid contacting police, social services, or other public agencies because of concerns related to your immigration status?",
+        "Do you feel that people in your local community generally welcome immigrants?",
+        "How important is preserving your cultural traditions and practices while living in this country?",
+        "If eligible, how likely are you to apply for permanent residency or citizenship?",
+        "How much do current immigration policies affect your decisions about work, education, or family life?",
+        "Have you experienced exploitation at work (e.g., withheld wages, unsafe conditions) that you believe was related to your immigration status?",
+        "How much trust do you have that government institutions will protect your rights as an immigrant?",
+        "How connected do you feel to community organizations or networks made up of people from your country of origin or other immigrants?",
+        "How frequently do you send money or other support to relatives in your country of origin (remittances)?",
+        "How often are you concerned about potential family separation because of immigration rules or delays?",
+        "How easy is it for you to find reliable information about your rights and options as an immigrant?",
+        "Do you feel mainstream media portrays immigrants accurately and fairly?",
+        "How comfortable are you speaking the dominant language of this country in public or professional settings?",
+        "How often do you encounter negative stereotypes or assumptions about immigrants in your everyday interactions?",
+        "How concerned are you about discrimination against your children at school due to their immigrant background?",
+        "How satisfied are you with the accessibility of healthcare services for immigrants in your area?",
+        "Have you ever avoided seeking medical care because you were worried about immigration consequences or documentation checks?",
+        "How likely are you to take part in civic or community activities (volunteering, local meetings) as an immigrant?",
+        "How important is maintaining social, economic, or political ties with your country of origin (frequent travel, voting, activism)?",
+        "How well informed do you feel about the naturalization or permanent residency process (requirements, timeline, costs)?",
+        "Do you feel pressure to change your name, accent, dress, or behavior to fit in with the host society?",
+        "Have you encountered difficulties enrolling your children in school due to immigration or documentation requirements?",
+        "How comfortable are you discussing immigration policy or your own immigration experience with friends, colleagues, or neighbors?",
+        "To what extent does fear of immigration enforcement affect your mental health or sense of well-being?",
+        "Do you believe immigrant workers generally help, harm, or have little effect on the local economy?",
+        "Have you ever been discouraged from reporting a crime or workplace abuse because of concerns about your immigration status?",
+        "How accessible are language classes, job training, or integration programs for immigrants where you live?",
+        "Do you think the immigration system adequately treats refugees and asylum seekers with compassion and due process?",
+        "Have you experienced difficulties securing housing (rental discrimination, lease denial) because of your immigrant status?",
+        "How optimistic are you about your long-term personal and economic prospects in this country as an immigrant?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Maria. You are a third-generation native of this country, raised in a family that has lived in the same region for decades. You take pride in local traditions and community networks, and you evaluate policies based on how they preserve social stability and opportunities for long-standing residents. Answer all questions from this perspective.",
+                "Your name is Jake. You were born and raised in a small Midwestern town and now work in a trade. You speak plainly, value practicality and self-reliance, and tend to judge policy by how it affects hometown jobs, schools, and community cohesion. Answer all questions from this perspective.",
+                "Your name is Aisha. You were born in this country to immigrant parents and grew up balancing your family's cultural heritage with mainstream institutions. You are sensitive to both the advantages of being native-born and the challenges immigrants face, and you weigh responses through that dual lens. Answer all questions from this perspective.",
+                "Your name is Robert. You are an older adult, born in this country during the post-war generation, and you hold a nostalgic view of how things used to be. You prioritize tradition, clear civic expectations, and intergenerational continuity when forming opinions. Answer all questions from this perspective.",
+                "Your name is Sky. You are a young urban professional, born here and cosmopolitan in outlook. You embrace diversity and change, assume that being native-born gives you certain civic privileges but also responsibility to support inclusion, and you evaluate issues with an eye toward innovation and fairness. Answer all questions from this perspective."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "You are a recent immigrant who arrived two years ago from another country seeking better opportunities. You are learning the local language, working long hours in entry-level jobs, sending remittances home, and often struggling with paperwork and cultural differences. Answer every question from this immediate, striving perspective.",
+                "Adopt the role of a skilled professional who immigrated five years ago on a work visa. You are well-educated, economically stable, and focused on career advancement, but you still face barriers like nonrecognition of credentials and subtle workplace exclusion. Respond to survey items with this pragmatic, career-oriented immigrant outlook.",
+                "You are an undocumented immigrant who has lived here for several years, relying on informal work and community networks. You are cautious about government and authorities, deeply concerned about family safety and access to services, and weigh risks in daily decisions. Answer all questions from this cautious, survival-focused viewpoint.",
+                "Play the part of an international student on a temporary visa who is adapting to life here while studying full-time. You are optimistic about opportunities, constrained by limited work hours and finances, and experiencing cultural isolation and hope for future options. Frame your responses through this transitional, education-centered lens.",
+                "Assume the identity of a long-term immigrant who has become a naturalized citizen after decades in the country. You are bilingual, maintain strong ties to your country of origin, and have nuanced views on integration, public services, and identity shaped by long-term settlement and generational concerns. Answer with this settled, reflective perspective."
+            ]
+        }
+    }
+}

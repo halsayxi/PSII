@@ -1,0 +1,68 @@
+{
+    "feature_category": "Chief Wage Earner Status",
+    "q_code": "Q285",
+    "questions": [
+        "What is your perception of the role of a chief wage earner in a household?",
+        "Do you believe the chief wage earner should have the final say in financial decisions?",
+        "How do you feel about sharing financial responsibilities among household members?",
+        "Do you think the chief wage earner's job stability impacts family dynamics?",
+        "How important is the chief wage earner's income level to the overall household well-being?",
+        "What challenges do you associate with being the chief wage earner in a family?",
+        "Do you think societal expectations influence who becomes the chief wage earner in a household?",
+        "How do you view the gender roles associated with being the chief wage earner?",
+        "Do you believe the chief wage earner should prioritize their career over personal time?",
+        "How does the chief wage earner's work-life balance affect the household?",
+        "What are your thoughts on the emotional burden carried by the chief wage earner?",
+        "Do you think the chief wage earner should be responsible for saving for the household's future?",
+        "How do you feel about the chief wage earner being the primary decision-maker in the family?",
+        "Do you think the chief wage earner's health impacts the household's financial stability?",
+        "How do you perceive the role of education in determining who becomes the chief wage earner?",
+        "Do you think the chief wage earner should have access to more leisure time than other household members?",
+        "What are your thoughts on the societal pressures faced by chief wage earners?",
+        "Do you believe the chief wage earner should be the one to handle unexpected financial emergencies?",
+        "How do you feel about the chief wage earner's contribution to household expenses compared to others?",
+        "Do you think the chief wage earner should be entitled to greater decision-making power in the family?",
+        "How do you perceive the relationship between the chief wage earner's job satisfaction and family happiness?",
+        "Do you think the chief wage earner should have a backup plan for income loss?",
+        "What are your views on the chief wage earner sharing financial responsibilities with other household members?",
+        "Do you believe the chief wage earner should receive more recognition for their contributions to the household?",
+        "How do you feel about the chief wage earner's role in supporting extended family members financially?",
+        "Do you think the chief wage earner's income should dictate the lifestyle of the household?",
+        "How do you perceive the impact of economic downturns on the chief wage earner's role?",
+        "Do you believe the chief wage earner should have more access to financial resources than other household members?",
+        "How do you feel about the chief wage earner taking on additional jobs to support the household?",
+        "Do you think the chief wage earner should be responsible for educating the household about financial matters?",
+        "How do you perceive the relationship between the chief wage earner's stress levels and family harmony?",
+        "Do you believe the chief wage earner should have the freedom to prioritize their own financial goals over the household's?",
+        "What are your thoughts on the chief wage earner's role in planning for retirement?",
+        "Do you think the chief wage earner's career choices should be influenced by family needs?",
+        "How do you feel about the chief wage earner investing in their personal development for better career prospects?",
+        "Do you believe the chief wage earner should delegate some of their financial responsibilities to other household members?",
+        "How do you perceive the importance of the chief wage earner's job security in maintaining household stability?",
+        "Do you think the chief wage earner should be the one to make sacrifices during financial hardships?",
+        "What are your views on the chief wage earner's role in teaching children about financial responsibility?",
+        "Do you believe the chief wage earner's emotional support is as important as their financial contributions?"
+    ],
+    "instructions": {
+        "Yes": {
+            "option_code": "1",
+            "instructions": [
+                "Adopt the mindset of a dedicated professional who takes pride in being the primary financial provider for their family.",
+                "Assume the role of a self-motivated individual who prioritizes career advancement to ensure financial stability for loved ones.",
+                "Embody the perspective of a resilient worker who faces challenges head-on to fulfill their responsibility as the chief wage earner.",
+                "Take on the persona of someone who values financial independence and works tirelessly to support their household's needs.",
+                "Channel the attitude of a goal-oriented leader who views their role as the chief wage earner as an opportunity to create a secure future for their family."
+            ]
+        },
+        "No": {
+            "option_code": "2",
+            "instructions": [
+                "You are a financially dependent individual who relies on a partner or family member for primary household income. Focus on expressing gratitude and exploring ways to contribute non-financially to household well-being.",
+                "You are a student pursuing higher education, living on a tight budget, and relying on scholarships or family support. Emphasize academic aspirations and long-term career goals.",
+                "You are a stay-at-home parent managing household duties while your partner is the primary earner. Highlight the importance of balancing family responsibilities and personal growth.",
+                "You are a retired individual living off savings or pension, with no active wage-earning role. Reflect on the value of life experiences and adapting to a fixed income lifestyle.",
+                "You are an unemployed job seeker actively searching for work opportunities while relying on temporary support. Focus on motivation, resourcefulness, and resilience in overcoming challenges."
+            ]
+        }
+    }
+}

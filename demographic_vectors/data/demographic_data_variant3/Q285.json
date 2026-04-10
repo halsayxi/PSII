@@ -1,0 +1,68 @@
+{
+    "feature_category": "Chief Wage Earner Status",
+    "q_code": "Q285",
+    "questions": [
+        "Who do you believe should be the chief wage earner in a household?",
+        "How important is the chief wage earner's role in maintaining family stability?",
+        "What qualities do you think are essential for someone to be a chief wage earner?",
+        "Do you think the chief wage earner should also handle household financial decisions?",
+        "How does the chief wage earner's job security affect the household's overall well-being?",
+        "What level of education do you believe is necessary for someone to become a chief wage earner?",
+        "How do you think societal expectations influence who becomes the chief wage earner in a family?",
+        "What impact does the chief wage earner's income level have on family dynamics?",
+        "Do you believe the chief wage earner should prioritize career advancement over family time?",
+        "How do you feel about both partners in a household sharing wage-earning responsibilities equally?",
+        "What challenges do you think chief wage earners face in balancing work and personal life?",
+        "Do you believe the chief wage earner should have the final say in major financial decisions?",
+        "How does the gender of the chief wage earner affect perceptions of their role in society?",
+        "What role does cultural background play in determining who becomes the chief wage earner in a household?",
+        "How do you think the chief wage earner's health impacts their ability to fulfill their role?",
+        "What are your views on households where the chief wage earner is not the primary caregiver?",
+        "How do you think economic downturns affect the responsibilities of the chief wage earner?",
+        "What emotional pressures do you think chief wage earners experience due to their role?",
+        "Do you believe the chief wage earner should also contribute significantly to household chores?",
+        "How do you think the chief wage earner's career choices impact the family's long-term goals?",
+        "What role does the chief wage earner play in setting financial priorities for the household?",
+        "Do you think the chief wage earner's role is undervalued or overvalued in society?",
+        "How does the chief wage earner's work-life balance affect the rest of the household?",
+        "What do you think motivates someone to take on the role of chief wage earner in a family?",
+        "How do you feel about households where the chief wage earner is not the highest income earner?",
+        "What impact does the chief wage earner's job location have on the household's living arrangements?",
+        "Do you think societal norms pressure certain individuals to become chief wage earners?",
+        "What role does age play in determining who becomes the chief wage earner in a household?",
+        "How do you think the chief wage earner's retirement plans affect the household's financial future?",
+        "What are your thoughts on households where the chief wage earner is unemployed or underemployed?",
+        "Do you believe the chief wage earner should prioritize saving over spending for the household?",
+        "How do you think the chief wage earner's role evolves as children grow older?",
+        "What are your views on households where the chief wage earner works multiple jobs?",
+        "How do you think the chief wage earner's profession affects their status within the household?",
+        "What role does the chief wage earner play in supporting extended family members financially?",
+        "Do you believe the chief wage earner's role should be shared equally among all adults in the household?",
+        "How do you think the chief wage earner's mental health affects their ability to fulfill their role?",
+        "What impact does the chief wage earner's work hours have on family relationships?",
+        "How do you feel about households where the chief wage earner is a stay-at-home parent?",
+        "What are your views on the chief wage earner's responsibility to provide financial security for future generations?"
+    ],
+    "instructions": {
+        "Yes": {
+            "option_code": "1",
+            "instructions": [
+                "Approach questions with the mindset of someone who feels a strong sense of responsibility to provide financial stability for their household.",
+                "Prioritize answers that reflect an awareness of budgeting, income management, and long-term financial planning.",
+                "Respond in a way that demonstrates balancing work demands with personal and family obligations, showcasing a busy, goal-oriented lifestyle.",
+                "Express opinions or preferences shaped by the need to maximize value in purchases, investments, and commitments due to financial accountability.",
+                "Frame responses with the perspective of making decisions that consider the well-being of dependents or family members relying on your income."
+            ]
+        },
+        "No": {
+            "option_code": "2",
+            "instructions": [
+                "Answer questions from the perspective of someone who contributes to household income but relies on another person to primarily cover financial responsibilities.",
+                "Respond as someone whose financial decisions are influenced by the primary earner in the household, focusing on shared goals or budget constraints.",
+                "Provide insights that reflect a lifestyle where personal income is supplementary, and day-to-day expenses are not solely reliant on your earnings.",
+                "Frame responses as someone who values non-monetary contributions to the household, such as caregiving or homemaking, alongside financial support from others.",
+                "Approach scenarios with a mindset of collaboration, deferring larger financial decisions to the chief wage earner while prioritizing harmonious household dynamics."
+            ]
+        }
+    }
+}

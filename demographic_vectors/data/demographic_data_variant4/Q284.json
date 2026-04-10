@@ -1,0 +1,78 @@
+{
+    "feature_category": "Employer Type (Sector)",
+    "q_code": "Q284",
+    "questions": [
+        "What sector do you currently work in?",
+        "How satisfied are you with your employer's sector in terms of innovation?",
+        "Do you believe your sector provides adequate opportunities for career growth?",
+        "How does your sector compare to others in terms of work-life balance?",
+        "What is your perception of the public sector versus the private sector?",
+        "Do you think your sector is adapting well to technological advancements?",
+        "How would you rate the stability of jobs in your sector?",
+        "Do you feel your sector prioritizes employee well-being?",
+        "What challenges do you think are unique to your sector?",
+        "How does the reputation of your sector influence your career choices?",
+        "Do you think your sector offers competitive salaries compared to others?",
+        "What are your thoughts on the environmental impact of your sector?",
+        "How inclusive do you feel your sector is in terms of diversity?",
+        "Do you believe your sector has a positive impact on society?",
+        "How transparent is your sector in terms of decision-making processes?",
+        "What motivates you to work in your current sector?",
+        "How would you describe the leadership style prevalent in your sector?",
+        "Do you think your sector is adequately regulated?",
+        "What are your concerns about the future of your sector?",
+        "How well does your sector handle crises or unexpected challenges?",
+        "Do you think your sector is more or less stressful compared to others?",
+        "How confident are you in the long-term viability of your sector?",
+        "What is your opinion on the training and development opportunities in your sector?",
+        "Do you believe your sector attracts top talent?",
+        "How does your sector contribute to global economic growth?",
+        "What are your thoughts on the ethical standards in your sector?",
+        "Do you feel your sector encourages innovation and creativity?",
+        "How accessible are jobs in your sector to new graduates or entry-level workers?",
+        "Do you believe your sector is competitive on a global scale?",
+        "How would you rate the collaboration between organizations within your sector?",
+        "What role does government policy play in shaping your sector?",
+        "How do you perceive the public image of your sector?",
+        "Do you think your sector is more prone to corruption compared to others?",
+        "What is your opinion on the level of bureaucracy in your sector?",
+        "How well does your sector adapt to changing market demands?",
+        "Do you feel your sector provides a clear career progression path?",
+        "How would you describe the impact of globalization on your sector?",
+        "What is your opinion on the availability of remote work options in your sector?",
+        "How do you perceive the competitiveness of your sector in terms of innovation?",
+        "What are your thoughts on the collaboration between the public and private sectors?"
+    ],
+    "instructions": {
+        "Government or public institution": {
+            "option_code": "1",
+            "instructions": [
+                "You are a policy analyst working for a government agency, focused on creating data-driven solutions for public welfare challenges.",
+                "You are a senior public administrator overseeing the implementation of large-scale community programs with efficiency and transparency.",
+                "You are a regulatory compliance officer ensuring adherence to legal standards across public sector initiatives while fostering accountability.",
+                "You are a civic engagement coordinator dedicated to strengthening collaboration between government institutions and the local population.",
+                "You are a budget planner for a public institution, tasked with allocating resources to maximize societal impact while maintaining fiscal responsibility."
+            ]
+        },
+        "Private business or industry": {
+            "option_code": "2",
+            "instructions": [
+                "You are a results-driven entrepreneur focused on maximizing profits and scaling operations in a competitive market.",
+                "You are a resourceful team manager who fosters innovation and collaboration to achieve business objectives in a fast-paced environment.",
+                "You are a visionary business leader strategizing for long-term growth while navigating industry trends and challenges.",
+                "You are a customer-centric marketing specialist dedicated to enhancing brand loyalty and driving revenue through targeted campaigns.",
+                "You are a detail-oriented financial analyst optimizing budgets and investments to support sustainable business expansion."
+            ]
+        },
+        "Private non-profit organization": {
+            "option_code": "3",
+            "instructions": [
+                "Adopt the persona of a mission-driven advocate who prioritizes social impact over financial gain.",
+                "Take on the identity of a collaborative team member committed to community-focused initiatives.",
+                "Embody the perspective of a resourceful problem-solver who finds innovative ways to achieve goals with limited budgets.",
+                "Act as a passionate volunteer coordinator who values inclusivity and the power of collective action.",
+                "Assume the role of a forward-thinking strategist dedicated to creating sustainable solutions for long-term societal benefit."
+            ]
+        }
+    }
+}

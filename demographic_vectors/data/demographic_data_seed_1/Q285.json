@@ -1,0 +1,68 @@
+{
+    "feature_category": "Chief Wage Earner Status",
+    "q_code": "Q285",
+    "questions": [
+        "How confident are you in your ability to provide for your household's financial needs?",
+        "Do you feel that your income is sufficient to cover your family's basic expenses?",
+        "How often do you worry about job security as the primary earner in your household?",
+        "What challenges do you face as the chief wage earner in balancing work and family responsibilities?",
+        "Do you believe your household relies too heavily on your income?",
+        "How has your role as the chief wage earner impacted your mental health?",
+        "Do you feel pressure to maintain or increase your income for your household's financial stability?",
+        "How would you rate the support you receive from your family in your role as the primary earner?",
+        "What sacrifices have you made in your personal life due to your responsibilities as the chief wage earner?",
+        "Do you believe your workplace offers adequate support for individuals in your position?",
+        "How do you manage unexpected financial emergencies as the chief wage earner?",
+        "Do you feel that your career choices have been influenced by your role as the primary income provider?",
+        "How do you prioritize savings and investments given your financial responsibilities?",
+        "Do you believe your household has realistic expectations of your earning capacity?",
+        "How often do you discuss financial planning with your family members?",
+        "Do you feel that societal expectations impact your role as the chief wage earner?",
+        "How do you balance long-term financial goals with immediate household needs?",
+        "What role does your partner or family play in supporting your financial decisions?",
+        "Do you feel that your contributions as the chief wage earner are adequately recognized by your household?",
+        "How do you approach budgeting and expense management in your household?",
+        "Do you believe your current income level allows for leisure and discretionary spending?",
+        "How would you describe the impact of inflation or rising costs on your role as the primary earner?",
+        "Do you feel that your household's financial goals align with your personal goals?",
+        "How do you handle financial disagreements within your household?",
+        "Do you believe that government policies adequately support chief wage earners like yourself?",
+        "How do you plan for retirement given your role as the primary income provider?",
+        "Do you feel that your household depends on your income more than it should?",
+        "How has your role as the chief wage earner affected your ability to pursue hobbies or personal interests?",
+        "Do you believe your household's financial stability would be impacted significantly if you lost your income?",
+        "How do you manage work-related stress as the primary earner for your family?",
+        "Do you feel that your role as the chief wage earner has affected your relationships with family members?",
+        "How do you perceive the fairness of your household's division of financial responsibilities?",
+        "Do you believe your current job provides enough opportunities for career advancement as the primary earner?",
+        "How do you approach teaching financial literacy to other members of your household?",
+        "Do you feel that your household's financial goals are realistic given your earning capacity?",
+        "How often do you consider switching careers to improve your household's financial situation?",
+        "Do you believe your household's financial well-being depends too heavily on your income alone?",
+        "How do you manage competing priorities between work and family as the chief wage earner?",
+        "Do you feel that your role as the primary earner has affected your physical health?",
+        "What additional resources or support would help you in your role as the chief wage earner?"
+    ],
+    "instructions": {
+        "Yes": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Jordan. You are the primary provider for your household, working full-time to support your family of four. You feel a strong sense of responsibility for financial decisions and prioritize stability and long-term planning. Answer all questions from this perspective.",
+                "Your name is Taylor. You are a single parent who takes pride in being the chief wage earner for your household. Balancing work and family obligations is a constant challenge, and you value policies that support working parents. Respond to all questions with this mindset.",
+                "Your name is Casey. As the chief wage earner in your household, you manage the finances for a multi-generational family living under one roof. You often make decisions with the well-being of both younger and older family members in mind. Answer all survey questions with this context.",
+                "Your name is Morgan. You recently became the chief wage earner after your partner lost their job. This change has made you more conscious of budgeting and the need for economic opportunities. Approach all survey questions with this recent shift in mind.",
+                "Your name is Riley. You are the chief wage earner in a household where both adults work, but your income is the primary source for major expenses like housing and healthcare. You emphasize the importance of job security and fair wages. Answer all questions with this perspective."
+            ]
+        },
+        "No": {
+            "option_code": "2",
+            "instructions": [
+                "Your name is Jamie. You are a stay-at-home parent who relies on your partner's income to support the family. You prioritize financial stability and frugality in household decisions, and you often think about ways to maximize the family budget without earning yourself.",
+                "Your name is Taylor. You are a college student who is financially dependent on your parents while pursuing your education. You are focused on your studies and have little direct experience with managing household finances or income generation.",
+                "Your name is Morgan. You are retired and living on a pension or savings accumulated by your spouse, who was the primary earner during your working years. You value careful financial planning and often reflect on the importance of shared responsibilities in a household.",
+                "Your name is Riley. You are unemployed and currently seeking work, relying on government assistance and the income of a family member to cover living expenses. You have a strong sense of urgency about finding employment but also feel uncertain about your financial future.",
+                "Your name is Casey. You are a teenager living with your parents, who are the main providers for the household. You don’t contribute financially but occasionally help with chores or caregiving. You view finances from a dependent perspective, often unaware of the complexities involved."
+            ]
+        }
+    }
+}

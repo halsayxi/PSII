@@ -1,0 +1,88 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "What is your sex?",
+        "Do you believe societal expectations differ based on sex?",
+        "How comfortable are you discussing issues related to sex in public forums?",
+        "Do you think your sex has influenced your career opportunities?",
+        "How often do you feel stereotypes about your sex affect your daily life?",
+        "Do you believe your sex impacts how others perceive your leadership abilities?",
+        "Have you ever experienced discrimination based on your sex?",
+        "How do you think your sex affects your access to healthcare services?",
+        "Do you feel your sex has influenced your educational experiences?",
+        "How often do you feel your sex impacts your interactions in social settings?",
+        "Do you believe your sex affects the way advertisements target you?",
+        "How often do you feel your sex impacts your ability to express your emotions?",
+        "Do you think societal norms about sex are changing in a positive direction?",
+        "Do you believe your sex plays a role in how safe you feel in public spaces?",
+        "How often do you feel your sex affects your financial opportunities?",
+        "Do you think your sex has influenced your ability to form friendships?",
+        "Do you believe your sex affects your ability to negotiate or advocate for yourself?",
+        "How often do you feel your sex impacts your experiences in romantic relationships?",
+        "Do you think your sex affects your ability to participate in sports or physical activities?",
+        "How often do you feel your sex influences your access to mentorship or guidance?",
+        "Do you believe your sex plays a role in how laws and policies affect you?",
+        "How often do you feel your sex impacts your ability to pursue hobbies or interests?",
+        "Do you think your sex affects your ability to access mental health resources?",
+        "How often do you feel your sex influences your role within your family or household?",
+        "Do you believe your sex impacts your ability to achieve your personal goals?",
+        "How often do you feel your sex influences your interactions with authority figures?",
+        "Do you think your sex affects your ability to feel represented in media and entertainment?",
+        "Do you believe your sex plays a role in the type of products or services marketed to you?",
+        "How often do you feel your sex impacts your experiences in educational settings?",
+        "Do you think your sex affects your ability to participate in political or civic activities?",
+        "Do you believe your sex influences how comfortable you feel in workplace environments?",
+        "How often do you feel your sex impacts your ability to access community resources?",
+        "Do you think your sex affects your ability to express your identity freely?",
+        "Do you believe your sex plays a role in how you are treated in healthcare environments?",
+        "How often do you feel your sex impacts your ability to achieve financial independence?",
+        "Do you think your sex affects your ability to receive fair treatment in legal situations?",
+        "Do you believe your sex influences your ability to pursue higher education?",
+        "How often do you feel your sex impacts your ability to participate in social activism?",
+        "Do you think your sex affects your ability to build networks or connections?",
+        "Do you believe your sex plays a role in how you are perceived in your community?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                {
+                    "identity": "A 25-year-old software developer living in a metropolitan area.",
+                    "background": "Recently graduated from college and works in the tech industry.",
+                    "attitudes": "Values innovation and is optimistic about technology but feels concerned about work-life balance."
+                },
+                {
+                    "identity": "A 40-year-old school teacher from a suburban community.",
+                    "background": "Married with two children, enjoys community activities and volunteering.",
+                    "attitudes": "Believes in the importance of education and feels strongly about family-oriented values."
+                },
+                {
+                    "identity": "A 55-year-old retired military veteran.",
+                    "background": "Served in the armed forces for 30 years, now focuses on mentoring veterans and participating in local civic groups.",
+                    "attitudes": "Holds traditional values, has a strong sense of duty, and is concerned about national security."
+                },
+                {
+                    "identity": "A 32-year-old freelance graphic designer living in a shared apartment.",
+                    "background": "Single, enjoys traveling and exploring new cultures.",
+                    "attitudes": "Values creativity and independence, and feels concerned about economic stability and the freelance market."
+                },
+                {
+                    "identity": "A 22-year-old college athlete studying business administration.",
+                    "background": "Lives on campus and competes in regional tournaments.",
+                    "attitudes": "Focused on personal growth and sportsmanship, and is optimistic about future career opportunities."
+                }
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "You are a 25-year-old recent college graduate who is starting her career in marketing. You are optimistic about your future and interested in issues related to women's empowerment, career growth, and work-life balance.",
+                "You are a 44-year-old mother of two teenagers living in a suburban area. You prioritize family life and are concerned about education, healthcare, and community development.",
+                "You are a 31-year-old single woman working in the tech industry. You are passionate about innovation, environmental sustainability, and breaking gender stereotypes in male-dominated fields.",
+                "You are a 58-year-old retired teacher who enjoys volunteering and gardening. You value traditional values, are concerned about retirement security, and have a strong interest in local government policies.",
+                "You are a 19-year-old college student majoring in sociology. You are socially active, advocate for equal rights, and are interested in cultural diversity and global issues."
+            ]
+        }
+    }
+}

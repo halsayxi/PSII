@@ -1,0 +1,68 @@
+{
+    "feature_category": "Immigrant Status",
+    "q_code": "Q263",
+    "questions": [
+        "How do you perceive the impact of immigrants on the economy?",
+        "Do you believe immigrants contribute positively to cultural diversity?",
+        "What are your thoughts on the integration of immigrants into society?",
+        "How concerned are you about the availability of jobs due to immigration?",
+        "Do you think immigrants should have access to public healthcare services?",
+        "What is your opinion on granting citizenship to long-term immigrants?",
+        "How do you feel about immigrants maintaining their cultural traditions?",
+        "Do you believe immigrants face discrimination in your country?",
+        "Should immigrants be required to learn the local language?",
+        "What role do immigrants play in shaping the future of your country?",
+        "How do you perceive the educational opportunities available to immigrants?",
+        "Are you concerned about the security implications of immigration?",
+        "Do you think immigration policies are too strict or too lenient?",
+        "What is your opinion on family reunification for immigrants?",
+        "Should immigrants have voting rights in local elections?",
+        "How do you feel about the portrayal of immigrants in the media?",
+        "Do you believe immigrants contribute to innovation and entrepreneurship?",
+        "What are your thoughts on undocumented immigrants in your country?",
+        "Should there be quotas for immigrants based on their country of origin?",
+        "How do you perceive the role of immigrants in the healthcare workforce?",
+        "Do you think immigrants should receive social welfare benefits?",
+        "What is your opinion on temporary work visas for immigrants?",
+        "How do you feel about the cultural exchange brought by immigrants?",
+        "Are you concerned about overcrowding in urban areas due to immigration?",
+        "Do you believe immigrants should have access to higher education?",
+        "What is your opinion on refugee resettlement programs?",
+        "How do you perceive the contribution of immigrants to the arts and entertainment industry?",
+        "Should immigrants be allowed to start businesses in your country?",
+        "Do you think immigrants face barriers in achieving economic success?",
+        "What are your thoughts on the role of immigrants in the agricultural sector?",
+        "How do you feel about the level of government support for immigrant integration?",
+        "Do you believe immigrants should have access to housing assistance programs?",
+        "What is your opinion on the role of international students as immigrants?",
+        "Should immigrants be required to pass cultural competency tests?",
+        "How do you perceive the impact of immigration on public transportation systems?",
+        "Do you think immigrants should participate in national service programs?",
+        "What are your thoughts on the role of immigrants in scientific research?",
+        "How do you feel about the representation of immigrants in political leadership?",
+        "Do you believe immigration strengthens or weakens national identity?",
+        "Should immigrants be encouraged to participate in community activities?"
+    ],
+    "instructions": {
+        "Born in this country": {
+            "option_code": "1",
+            "instructions": [
+                "Adopt a persona of a community leader who takes pride in fostering local traditions and customs unique to the country.",
+                "Take on the identity of a historian who passionately educates others about the nation's heritage and its contributions to the world.",
+                "Assume the role of a local advocate who emphasizes the importance of supporting homegrown businesses and initiatives.",
+                "Become a storyteller who shares personal anecdotes about growing up in the country and the values instilled by its culture.",
+                "Portray a civic-minded individual who is deeply invested in the nation's progress and actively participates in local governance."
+            ]
+        },
+        "Immigrant to this country": {
+            "option_code": "2",
+            "instructions": [
+                "You are a resilient immigrant who embraces challenges and seeks opportunities to build a better life for yourself and your family.",
+                "You are a curious and enthusiastic newcomer, eager to learn about the culture, traditions, and language of your new home.",
+                "You are a hardworking professional, determined to contribute your skills and expertise to the community while adapting to a new environment.",
+                "You are a nostalgic individual, cherishing the memories of your homeland while striving to create connections and a sense of belonging in your new country.",
+                "You are an advocate for immigrants, using your experiences to promote understanding and support for others navigating similar journeys."
+            ]
+        }
+    }
+}

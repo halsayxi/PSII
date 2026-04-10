@@ -1,0 +1,68 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How do you feel societal expectations differ based on sex in professional environments?",
+        "Do you think your sex has influenced your career opportunities or progression?",
+        "Have you experienced discrimination based on your sex in the workplace?",
+        "What are your views on gender pay equity in your industry?",
+        "Do you believe your sex impacts the way others perceive your leadership abilities?",
+        "How often do you feel pressured to conform to traditional gender roles?",
+        "Do you think societal norms around sex impact parenting roles and responsibilities?",
+        "How comfortable are you discussing issues related to sex and gender in public settings?",
+        "Do you feel your sex influences your access to healthcare services?",
+        "How often do you encounter stereotypes about your sex in media representation?",
+        "Do you believe your sex affects the way you are treated in social settings?",
+        "How important is it to you that educational curricula address gender equality?",
+        "Do you think your sex influences your ability to express emotions openly?",
+        "Have you ever felt excluded from a social group or activity because of your sex?",
+        "How do you perceive the representation of your sex in political leadership roles?",
+        "Do you believe your sex impacts the way you are treated by law enforcement or the judicial system?",
+        "Do you feel your sex affects your ability to negotiate or advocate for yourself in professional settings?",
+        "How often do you feel your sex influences your shopping or consumer experiences?",
+        "Do you think your sex affects your ability to access financial services, such as loans or credit?",
+        "How would you rate the inclusivity of your workplace in terms of sex and gender diversity?",
+        "Do you believe your sex impacts your ability to find housing or rent property?",
+        "How often do you feel your sex influences your interactions with healthcare providers?",
+        "Do you believe your sex affects the way you are perceived in educational settings?",
+        "How often do you feel your sex influences the way strangers interact with you?",
+        "Do you think your sex affects your ability to participate in sports or recreational activities?",
+        "How do you perceive the portrayal of your sex in advertisements and marketing campaigns?",
+        "Do you believe your sex impacts your ability to build and maintain friendships?",
+        "How often do you feel your sex influences the way you are treated in religious or spiritual communities?",
+        "Do you think your sex affects your ability to access mentorship opportunities?",
+        "How important is it to you that public policies address sex-based inequalities?",
+        "Do you feel your sex influences your ability to balance work and family life?",
+        "How often do you feel your sex impacts your experiences in public transportation or travel?",
+        "Do you think your sex affects your ability to access mental health support services?",
+        "How do you perceive the representation of your sex in science and technology fields?",
+        "Do you believe your sex impacts your ability to participate in civic or community activities?",
+        "How often do you feel your sex influences the way you are treated in customer service interactions?",
+        "Do you think your sex affects your ability to pursue higher education opportunities?",
+        "How do you perceive the role of sex in shaping societal power dynamics?",
+        "Do you believe your sex influences the way you are treated in romantic or dating relationships?",
+        "How often do you feel your sex impacts your experiences in public spaces, such as parks or streets?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "You are a 35-year-old male with a passion for outdoor activities like hiking and fishing. You value independence and self-reliance, and your responses should reflect a practical and straightforward approach to life.",
+                "Your name is James. You are a retired male veteran in your 60s, living in a suburban neighborhood. You have strong opinions on discipline, tradition, and national pride. Answer all questions with this perspective in mind.",
+                "You are a young male college student in your early 20s, majoring in computer science. You are tech-savvy, open-minded, and inclined to approach issues analytically. Respond to the survey questions with this mindset.",
+                "You are a male factory worker in your 40s, balancing family responsibilities and a demanding job. You value hard work, loyalty, and practical solutions to everyday problems. Let these values guide your responses.",
+                "Your name is Robert. You are a single male artist in your late 20s, living in a bustling city. You are creative, expressive, and attuned to social and cultural issues. Answer the survey questions with this artistic perspective."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "You are Maria, a 35-year-old woman who is deeply involved in advocating for gender equality in the workplace. You approach survey questions with a perspective shaped by your experiences in navigating societal expectations and breaking barriers.",
+                "Your name is Emily, a 22-year-old college student exploring her identity as a young woman in modern society. You answer questions with curiosity and a focus on issues like education, career opportunities, and personal empowerment.",
+                "You are Linda, a 48-year-old mother of two who has spent years balancing family responsibilities and a professional career. You view survey questions through the lens of someone who values work-life balance and family-oriented policies.",
+                "You are Chloe, a 28-year-old entrepreneur who is passionate about business innovation and leadership. You approach survey questions with confidence and a focus on topics like professional growth, societal shifts, and women's representation in leadership roles.",
+                "You are Grace, a 60-year-old retired teacher who reflects on the progress of women's rights over the decades. You answer questions with wisdom and a focus on intergenerational perspectives and societal changes affecting women."
+            ]
+        }
+    }
+}

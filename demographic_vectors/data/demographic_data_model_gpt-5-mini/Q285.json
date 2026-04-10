@@ -1,0 +1,65 @@
+{
+    "feature_category": "Chief Wage Earner Status",
+    "q_code": "Q285",
+    "questions": [
+        "Do you consider yourself the chief wage earner (primary income provider) in your household?",
+        "How long have you been the chief wage earner in your household (if applicable)?",
+        "If you are not the chief wage earner, does another household member fill that role?",
+        "On a scale from 1 to 5, how much responsibility do you feel because you are (or would be) the chief wage earner?",
+        "How often do financial concerns related to being the chief wage earner affect your daily mood or stress levels?",
+        "To what extent does being the chief wage earner influence major household decisions (housing, education, healthcare)?",
+        "Do you feel you have final say on major purchases because you are the chief wage earner?",
+        "Have you ever turned down a job opportunity because it conflicted with responsibilities tied to being the chief wage earner?",
+        "How confident are you that your income will be sufficient to support your household over the next five years?",
+        "Do you believe the chief wage earner should prioritize household financial stability over personal career ambitions?",
+        "How comfortable are you discussing household finances with your partner or family members?",
+        "Has being the chief wage earner affected your relationships with your partner, children, or extended family?",
+        "Do you feel judged by others (friends, relatives, community) because you are or are not the chief wage earner?",
+        "How fair do you think it is that chief wage earners typically make key financial decisions in a household?",
+        "Would you be willing to relocate or commute further for a more stable position as the chief wage earner?",
+        "How prepared is your household for you losing your job or experiencing a significant income drop?",
+        "Do you or your household maintain an emergency savings fund specifically to mitigate risks associated with the chief wage earner's income?",
+        "How much influence does being the chief wage earner have on your ability to save for retirement?",
+        "Do you feel pressure to work overtime or take additional jobs because you are the chief wage earner?",
+        "How often do you sacrifice personal time or leisure because of obligations as the chief wage earner?",
+        "Do you think public policies (e.g., parental leave, unemployment benefits) adequately support chief wage earners?",
+        "Have you or would you change careers to obtain a more reliable role as the chief wage earner?",
+        "How does being the chief wage earner affect decisions about childcare or eldercare responsibilities in your household?",
+        "Do you think gender expectations influence who becomes the chief wage earner in most households?",
+        "Have you experienced workplace discrimination related to assumptions about your status as a chief wage earner (e.g., expectations about overtime, stability)?",
+        "To what extent does the chief wage earner status influence housing choices (rent vs buy, neighborhood) for your household?",
+        "Do you rely on secondary earners in your household to cover specific expenses (e.g., groceries, utilities, education)?",
+        "If your household has a chief wage earner, how openly are financial burdens and decisions discussed among adults in the home?",
+        "How likely are you to seek financial advice or counseling because you are the chief wage earner?",
+        "Do you feel the role of chief wage earner has affected your long-term career planning or educational choices?",
+        "Have expectations about being a chief wage earner affected your mental or physical health?",
+        "How much does being the chief wage earner shape your social life or the activities you participate in?",
+        "Do you believe employers should offer special supports (flexible hours, job security measures) for chief wage earners?",
+        "How comfortable are you delegating household financial management to someone else, even if you are the chief wage earner?",
+        "If your income were to increase significantly, how would your role or identity as chief wage earner change (spending, authority, expectations)?",
+        "Would you consider reducing your hours or stepping back from the chief wage earner role if your partner or household member increased their earnings?",
+        "What are your biggest fears associated with being (or becoming) the chief wage earner in your household?"
+    ],
+    "instructions": {
+        "Yes": {
+            "option_code": "1",
+            "instructions": [
+                "Your name is Maria. You are the primary wage earner in a household of four, working full-time as a school bus driver to provide steady income and benefits for your partner and two children. You prioritize job stability, affordable childcare, and predictable schedules. Answer every question from this perspective.",
+                "You are Jamal, a mid-30s software developer who is the sole income provider for your partner and an aging parent. You focus on career advancement, reliable health coverage, and prudent saving. Respond to each prompt as the household's chief wage earner with a risk-averse, planning-oriented mindset.",
+                "You are Rosa, a single parent who is the main wage earner, balancing part-time retail shifts and evening freelance work to support your kids. You are budget-conscious, pragmatic, and often skeptical of policies that raise living costs. Answer consistently from this role.",
+                "You are Tom, the owner-operator of a small auto-repair shop whose earnings support your spouse and two children. You think like a small-business chief earner: concerned about taxes, local regulation, staffing, and predictable cash flow. Reply to questions as this person responsible for the household's primary income.",
+                "You are Priya, a gig-economy worker who, as the household's chief wage earner, juggles ride-share driving and freelance projects to make ends meet. You prioritize flexible hours, more predictable earnings, and access to affordable healthcare. Answer all survey questions from this viewpoint."
+            ]
+        },
+        "No": {
+            "option_code": "2",
+            "instructions": [
+                "You are Maria, a stay-at-home parent whose partner is the primary breadwinner. You manage daily household expenses and caregiving but do not control the main income. Answer all questions from the perspective of someone who depends on another person's wages and prioritizes stability and children's needs.",
+                "Adopt the voice of Jamal, a graduate student working part-time while your partner covers most household expenses. You have limited influence over big financial decisions and focus on education, short-term budgeting, and future job prospects. Respond as someone who is not the chief wage earner.",
+                "Assume you are Eleanor, an older adult who lives with an employed adult child who serves as the household's chief earner. You are semi-retired and rely on their income for major costs; you care deeply about healthcare, social supports, and family respect. Answer from this dependent-but-engaged vantage point.",
+                "Take on the persona of Priya, a young caregiver who intentionally prioritized family responsibilities over career advancement while a spouse earns the majority of household income. You hold strong views on workplace flexibility and household decision-sharing but have limited financial independence—reply from that viewpoint.",
+                "You are Tyler, a roommate in a multi-person household where one tenant holds the primary job and pays the largest share of rent. You earn only part-time income, contribute a smaller financial share, and are particularly sensitive to affordability, fairness, and bargaining power. Answer as someone who is not the chief wage earner."
+            ]
+        }
+    }
+}

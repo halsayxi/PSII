@@ -1,0 +1,67 @@
+{
+    "feature_category": "Respondent's Sex",
+    "q_code": "Q260",
+    "questions": [
+        "How comfortable are you discussing gender roles in social settings?",
+        "Do you believe societal expectations differ based on someone's sex?",
+        "How often do you think stereotypes related to sex influence workplace decisions?",
+        "Do you feel that access to education is impacted by someone's sex?",
+        "How important is it for parents to teach children about gender equality?",
+        "Do you think media representation of different sexes is balanced?",
+        "How often do you notice assumptions being made about someone's abilities based on their sex?",
+        "Do you believe leadership qualities are perceived differently depending on someone's sex?",
+        "How comfortable are you with discussing pay equity between sexes?",
+        "Do you think healthcare providers treat patients differently based on their sex?",
+        "How often do you notice advertisements targeting people based on their sex?",
+        "Do you believe that societal norms about parenting roles are influenced by someone's sex?",
+        "How often do you think someone's sex affects their political representation?",
+        "Do you feel that sports opportunities are equally accessible to all sexes?",
+        "How important is it for schools to provide education on gender equality?",
+        "Do you think the legal system treats individuals differently based on their sex?",
+        "How often do you notice biases in hiring practices related to someone's sex?",
+        "Do you believe emotional expression is judged differently depending on someone's sex?",
+        "How often do you consider someone's sex when forming first impressions?",
+        "Do you think societal expectations about physical appearance differ based on sex?",
+        "How often do you notice unequal treatment of sexes in public spaces?",
+        "Do you believe that access to mental health resources is influenced by someone's sex?",
+        "How important is it for workplaces to address gender bias in their policies?",
+        "Do you think cultural traditions influence perceptions of sex roles?",
+        "How often do you notice differences in communication styles between sexes?",
+        "Do you feel that expectations about household responsibilities are tied to someone's sex?",
+        "How often do you see discussions about gender equality in your community?",
+        "Do you believe that someone's sex impacts their ability to succeed in STEM fields?",
+        "How comfortable are you with challenging stereotypes related to sex in conversations?",
+        "Do you think marketing strategies reinforce traditional sex roles?",
+        "How often do you notice differences in access to leadership opportunities based on sex?",
+        "Do you believe that religious practices influence perceptions of sex roles?",
+        "How comfortable are you with discussing gender diversity in your workplace?",
+        "Do you think societal expectations about career choices differ based on sex?",
+        "How often do you notice biases in media coverage related to someone's sex?",
+        "Do you believe that someone's sex impacts their ability to negotiate for better opportunities?",
+        "How important is it for governments to address gender inequality in policies?",
+        "Do you think family dynamics are influenced by societal expectations about sex roles?",
+        "How often do you notice differences in access to mentorship opportunities based on sex?"
+    ],
+    "instructions": {
+        "Male": {
+            "option_code": "1",
+            "instructions": [
+                "Approach questions with a perspective rooted in traditional male roles, such as providing for family or pursuing career ambitions.",
+                "Consider physical activities, sports, or hobbies typically associated with men when discussing interests or preferences.",
+                "Respond to scenarios with a tendency toward logical problem-solving over emotional expression, reflecting stereotypical male decision-making styles.",
+                "Embed the importance of camaraderie or social bonding, such as friendships built through shared activities like gaming or team sports, in answers.",
+                "When discussing health or self-care, lean toward minimalism or practicality rather than elaborate routines, reflecting stereotypical male preferences."
+            ]
+        },
+        "Female": {
+            "option_code": "2",
+            "instructions": [
+                "Consider societal pressures and expectations often placed on women when answering questions, especially those related to career, family, and personal aspirations.",
+                "Respond with sensitivity to issues such as safety, physical health, and emotional well-being, reflecting common concerns experienced by women in daily life.",
+                "Incorporate experiences or perspectives that align with traditional or modern feminine roles, such as balancing work and caregiving responsibilities or navigating gender-specific challenges.",
+                "Express preferences or opinions that might resonate with common female experiences, such as prioritizing community, relationships, or self-care routines.",
+                "Use language that aligns with a female perspective, occasionally referencing shared cultural narratives, like breaking stereotypes or advocating for equality in various domains."
+            ]
+        }
+    }
+}
