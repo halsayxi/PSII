@@ -1,0 +1,3860 @@
+{
+  "Q1": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Family: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q2": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Friends: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q3": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Leisure time: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q4": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Politics: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q5": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Work: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q6": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Religion: How important is it in your life?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q7": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Good manners: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q8": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Independence: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q9": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Hard work: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q10": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Feeling of responsibility: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q11": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Imagination: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q12": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Tolerance and respect for other people: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q13": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Thrift, saving money and things: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q14": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Determination, perseverance: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q15": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Religious faith: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q16": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Not being selfish (unselfishness): Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q17": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Obedience: Do you consider it an important quality for children to learn?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q18": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have drug addicts as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q19": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have people of a different race as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q20": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have people who have AIDS as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q21": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have immigrants/foreign workers as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q22": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have homosexuals as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q23": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have people of a different religion as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q24": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have heavy drinkers as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q25": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have unmarried couples living together as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q26": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would you not like to have people who speak a different language as neighbors?",
+      "Options:",
+      "1: Mentioned",
+      "2: Not mentioned",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q27": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: One of my main goals in life has been to make my parents proud.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q28": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When a mother works for pay, the children suffer.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q29": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: On the whole, men make better political leaders than women do.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q30": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: A university education is more important for a boy than for a girl.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q31": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: On the whole, men make better business executives than women do.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q32": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Being a housewife is just as fulfilling as working for pay.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q33": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When jobs are scarce, men should have more right to a job than women.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q34": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When jobs are scarce, employers should give priority to people of this country over immigrants.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q35": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: If a woman earns more money than her husband, it's almost certain to cause problems.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q36": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Homosexual couples are as good parents as other couples.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q37": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: It is a duty towards society to have children.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q38": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Adult children have the duty to provide long-term care for their parents.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q39": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: People who don’t work turn lazy.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q40": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Work is a duty towards society.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q41": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Work should always come first, even if it means less spare time.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Neither agree nor disagree",
+      "4: Disagree",
+      "5: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q42": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following best describes your opinion about society? ",
+      "Options:",
+      "1: The entire way our society is organized must be radically changed by revolutionary action.",
+      "2: Our society must be gradually improved by reforms.",
+      "3: Our present society must be valiantly defended against all subversive forces.",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q43": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would it be a good thing, bad thing, or don't you mind if there was less importance placed on work in our lives?",
+      "Options:",
+      "1: Good",
+      "2: Don’t mind",
+      "3: Bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q44": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would it be a good thing, bad thing, or don't you mind if there was more emphasis on the development of technology?",
+      "Options:",
+      "1: Good",
+      "2: Don’t mind",
+      "3: Bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q45": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Would it be a good thing, bad thing, or don't you mind if there was greater respect for authority?",
+      "Options:",
+      "1: Good",
+      "2: Don’t mind",
+      "3: Bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q46": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Taking all things together, would you say you are:",
+      "Options:",
+      "1: Very happy",
+      "2: Rather happy",
+      "3: Not very happy",
+      "4: Not at all happy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q47": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: All in all, how would you describe your state of health these days?",
+      "Options:",
+      "1: Very good",
+      "2: Good",
+      "3: Fair",
+      "4: Poor",
+      "5: Very poor",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q48": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much freedom of choice and control do you feel you have over the way your life turns out?",
+      "Options:",
+      "1: No choice at all",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: A great deal of choice",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q49": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: All things considered, how satisfied are you with your life as a whole these days?",
+      "Options:",
+      "1: Completely dissatisfied",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely satisfied",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q50": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How satisfied are you with the financial situation of your household?",
+      "Options:",
+      "1: Completely dissatisfied",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely satisfied",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q51": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In the last 12 months, how often have you or your family gone without enough food to eat?",
+      "Options:",
+      "1: Often",
+      "2: Sometimes",
+      "3: Rarely",
+      "4: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q52": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In the last 12 months, how often have you or your family felt unsafe from crime in your home?",
+      "Options:",
+      "1: Often",
+      "2: Sometimes",
+      "3: Rarely",
+      "4: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q53": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In the last 12 months, how often have you or your family gone without medicine or medical treatment that you needed?",
+      "Options:",
+      "1: Often",
+      "2: Sometimes",
+      "3: Rarely",
+      "4: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q54": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In the last 12 months, how often have you or your family gone without a cash income?",
+      "Options:",
+      "1: Often",
+      "2: Sometimes",
+      "3: Rarely",
+      "4: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q55": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In the last 12 months, how often have you or your family gone without a safe shelter over your head?",
+      "Options:",
+      "1: Often",
+      "2: Sometimes",
+      "3: Rarely",
+      "4: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q56": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Comparing your standard of living with your parents' when they were about your age, would you say that you are:",
+      "Options:",
+      "1: Better off",
+      "2: Worse off",
+      "3: About the same",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q57": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+      "Options:",
+      "1: Most people can be trusted",
+      "2: Need to be very careful",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q58": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust your family?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q59": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust your neighborhood?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q60": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust people you know personally?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q61": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust people you meet for the first time?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q62": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust people of another religion?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q63": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you trust people of another nationality?",
+      "Options:",
+      "1: Trust completely",
+      "2: Trust somewhat",
+      "3: Do not trust very much",
+      "4: Do not trust at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q64": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the churches?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q65": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the armed forces?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q66": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the press?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q67": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in television?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q68": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in labor unions?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q69": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the police?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q70": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the courts?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q71": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the government?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q72": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in political parties?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q73": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in parliament?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q74": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the civil service?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q75": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in universities?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q76": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in elections?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q77": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in major companies?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q78": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in banks?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q79": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in environmental organizations?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q80": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in women's organizations?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q81": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in charitable or humanitarian organizations?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q82": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the European Union (or relevant regional organization)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q83": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the United Nations?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q84": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the International Monetary Fund (IMF)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q85": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the International Criminal Court (ICC)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q86": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the North Atlantic Treaty Organization (NATO)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q87": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the World Bank?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q88": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the World Health Organization (WHO)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q89": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much confidence do you have in the World Trade Organization (WTO)?",
+      "Options:",
+      "1: A great deal",
+      "2: Quite a lot",
+      "3: Not very much",
+      "4: None at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q90": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Should international organizations prioritize being effective or being democratic?",
+      "Options:",
+      "1: Being effective",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Being democratic",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q91": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which one of the following is NOT a member of the United Nations Security Council?",
+      "Options:",
+      "1: France",
+      "2: China",
+      "3: India",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q92": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Where are the headquarters of the International Monetary Fund (IMF) located?",
+      "Options:",
+      "1: Washington DC",
+      "2: London",
+      "3: Geneva",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q93": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following problems does Amnesty International deal with?",
+      "Options:",
+      "1: Climate change",
+      "2: Human rights",
+      "3: Destruction of historic monuments",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q94": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a church or religious organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q95": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a labor union?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q96": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a political party?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q97": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of an environmental organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q98": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a sport or recreational organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q99": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of an art, music, or educational organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q100": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a professional association?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q101": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a humanitarian or charitable organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q102": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a consumer organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q103": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a self-help group or mutual aid group?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q104": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of a women’s group?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q105": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Are you an active member, an inactive member, or not a member of any other type of organization?",
+      "Options:",
+      "0: Not a member",
+      "1: Inactive member",
+      "2: Active member",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q106": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+      "Options:",
+      "1: Incomes should be made more equal",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: There should be greater incentives for individual effort",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q107": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+      "Options:",
+      "1: Private ownership of business and industry should be increased",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Government ownership of business and industry should be increased",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q108": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+      "Options:",
+      "1: Government should take more responsibility to ensure that everyone is provided for",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: People should take more responsibility to provide for themselves",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q109": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+      "Options:",
+      "1: Competition is good",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Competition is harmful",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "6",
+    "result": 6
+  },
+  "Q110": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+      "Options:",
+      "1: In the long run, hard work usually brings a better life",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Hard work doesn’t generally bring success—it’s more a matter of luck and connections",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q111": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following comes closer to your view? (1 = Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs, 2 = Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent)",
+      "Options:",
+      "1: Protecting the environment should be given priority",
+      "2: Economic growth and creating jobs should be the top priority",
+      "3: Other answer (volunteered only)",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q112": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How would you place your views on corruption in your country? (1 = There is no corruption in my country, 10 = There is abundant corruption in my country)",
+      "Options:",
+      "1: There is no corruption in my country",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: There is abundant corruption in my country",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q113": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How many state authorities do you believe are involved in corruption?",
+      "Options:",
+      "1: None of them",
+      "2: Few of them",
+      "3: Most of them",
+      "4: All of them",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q114": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How many business executives do you believe are involved in corruption?",
+      "Options:",
+      "1: None of them",
+      "2: Few of them",
+      "3: Most of them",
+      "4: All of them",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q115": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How many local authorities do you believe are involved in corruption?",
+      "Options:",
+      "1: None of them",
+      "2: Few of them",
+      "3: Most of them",
+      "4: All of them",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q116": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How many civil service providers do you believe are involved in corruption?",
+      "Options:",
+      "1: None of them",
+      "2: Few of them",
+      "3: Most of them",
+      "4: All of them",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q117": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How many journalists and media people do you believe are involved in corruption?",
+      "Options:",
+      "1: None of them",
+      "2: Few of them",
+      "3: Most of them",
+      "4: All of them",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q118": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need? Does it happen never, rarely, frequently or always?",
+      "Options:",
+      "1: Never",
+      "2: Rarely",
+      "3: Frequently",
+      "4: Always",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q119": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Can you tell me how strongly you agree or disagree with the following statement: “on the whole, women are less corrupt than men”?",
+      "Options:",
+      "0: Hard to say",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q120": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”.",
+      "Options:",
+      "1: No risk at all",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Very high risk",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q121": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Now we would like to know your opinion about the people from other countries who come to live in [your country] - the immigrants. How would you evaluate the impact of these people on the development of [your country]?",
+      "Options:",
+      "1: Very good",
+      "2: Quite good",
+      "3: Neither good, nor bad",
+      "4: Quite bad",
+      "5: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q122": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration fills important job vacancies?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q123": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration strengthens cultural diversity?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q124": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration increases the crime rate?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q125": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration gives asylum to political refugees who are persecuted elsewhere?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q126": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration increases the risks of terrorism?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q127": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration offers people from poor countries a better living?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q128": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration increases unemployment?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q129": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you agree that immigration leads to social conflict?",
+      "Options:",
+      "0: Disagree",
+      "1: Hard to say",
+      "2: Agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q130": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: What should the government do about people from other countries coming here to work?",
+      "Options:",
+      "1: Let anyone come who wants to",
+      "2: Let people come as long as there are jobs available",
+      "3: Place strict limits on the number of foreigners who can come here",
+      "4: Prohibit people coming here from other countries",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q131": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How secure do you feel these days?",
+      "Options:",
+      "1: Very secure",
+      "2: Quite secure",
+      "3: Not very secure",
+      "4: Not at all secure",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q132": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently do robberies occur in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q133": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently does alcohol consumption in the streets occur in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q134": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently do police or military interfere with people’s private life in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q135": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently does racist behavior occur in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q136": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently does drug sale occur in the streets of your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q137": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently does street violence and fights occur in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q138": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How frequently does sexual harassment occur in your neighborhood?",
+      "Options:",
+      "1: Very frequently",
+      "2: Quite frequently",
+      "3: Not frequently",
+      "4: Not at all frequently",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q139": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you not carried much money for reasons of security?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q140": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you preferred not to go out at night for reasons of security?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q141": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you carried a knife, gun or other weapon for reasons of security?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q142": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: To what degree are you worried about losing your job or not finding a job?",
+      "Options:",
+      "1: Very much",
+      "2: A good deal",
+      "3: Not much",
+      "4: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q143": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: To what degree are you worried about not being able to give your children a good education?",
+      "Options:",
+      "1: Very much",
+      "2: A good deal",
+      "3: Not much",
+      "4: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q144": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you been the victim of a crime during the past year?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q145": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Has someone in your family been the victim of a crime during the past year?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q146": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: To what degree are you worried about a war involving your country?",
+      "Options:",
+      "1: Very much",
+      "2: A good deal",
+      "3: Not much",
+      "4: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q147": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: To what degree are you worried about a terrorist attack?",
+      "Options:",
+      "1: Very much",
+      "2: A good deal",
+      "3: Not much",
+      "4: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q148": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: To what degree are you worried about a civil war?",
+      "Options:",
+      "1: Very much",
+      "2: A good deal",
+      "3: Not much",
+      "4: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q149": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: If you had to choose between freedom and equality, which one would you consider more important?",
+      "Options:",
+      "1: Freedom",
+      "2: Equality",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q150": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: If you had to choose between freedom and security, which one would you consider more important?",
+      "Options:",
+      "1: Freedom",
+      "2: Security",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q151": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q152": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following goals should be the most important for the country over the next ten years?",
+      "Options:",
+      "1: A high level of economic growth",
+      "2: Making sure this country has strong defense forces",
+      "3: Seeing that people have more say about how things are done at their jobs and in their communities",
+      "4: Trying to make our cities and countryside more beautiful",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q153": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following goals should be the second most important for the country over the next ten years?",
+      "Options:",
+      "1: A high level of economic growth",
+      "2: Making sure this country has strong defense forces",
+      "3: Seeing that people have more say about how things are done at their jobs and in their communities",
+      "4: Trying to make our cities and countryside more beautiful",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q154": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following is most important for the country?",
+      "Options:",
+      "1: Maintaining order in the nation",
+      "2: Giving people more say in important government decisions",
+      "3: Fighting rising prices",
+      "4: Protecting freedom of speech",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q155": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Which of the following is the second most important for the country?",
+      "Options:",
+      "1: Maintaining order in the nation",
+      "2: Giving people more say in important government decisions",
+      "3: Fighting rising prices",
+      "4: Protecting freedom of speech",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q156": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your opinion, which of the following is most important?",
+      "Options:",
+      "1: A stable economy",
+      "2: Progress toward a less impersonal and more humane society",
+      "3: Progress toward a society in which ideas count more than money",
+      "4: The fight against crime",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q157": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your opinion, which of the following is the second most important?",
+      "Options:",
+      "1: A stable economy",
+      "2: Progress toward a less impersonal and more humane society",
+      "3: Progress toward a society in which ideas count more than money",
+      "4: The fight against crime",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q158": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Science and technology are making our lives healthier, easier, and more comfortable.",
+      "Options:",
+      "1: Completely disagree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q159": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Because of science and technology, there will be more opportunities for the next generation.",
+      "Options:",
+      "1: Completely disagree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q160": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: We depend too much on science and not enough on faith.",
+      "Options:",
+      "1: Completely disagree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q161": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: One of the bad effects of science is that it breaks down people’s ideas of right and wrong.",
+      "Options:",
+      "1: Completely disagree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q162": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: It is not important for me to know about science in my daily life.",
+      "Options:",
+      "1: Completely disagree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely agree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q163": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: All things considered, would you say that the world is better off or worse off because of science and technology?",
+      "Options:",
+      "1: A lot worse off",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: A lot better off",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q164": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How important is God in your life?",
+      "Options:",
+      "1: Not at all important",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Very important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q165": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you believe in God?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q166": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you believe in life after death?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q167": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you believe in hell?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q168": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you believe in heaven?",
+      "Options:",
+      "1: Yes",
+      "2: No",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q169": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Whenever science and religion conflict, religion is always right.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q170": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: The only acceptable religion is my religion.",
+      "Options:",
+      "1: Strongly agree",
+      "2: Agree",
+      "3: Disagree",
+      "4: Strongly disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q171": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Apart from weddings and funerals, about how often do you attend religious services these days?",
+      "Options:",
+      "1: More than once a week",
+      "2: Once a week",
+      "3: Once a month",
+      "4: Only on special holy days",
+      "5: Once a year",
+      "6: Less often",
+      "7: Never, practically never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "7",
+    "result": 7
+  },
+  "Q172": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Apart from weddings and funerals, about how often do you pray?",
+      "Options:",
+      "1: Several times a day",
+      "2: Once a day",
+      "3: Several times each week",
+      "4: Only when attending religious services",
+      "5: Only on special holy days",
+      "6: Once a year",
+      "7: Less often",
+      "8: Never, practically never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "8",
+    "result": 8
+  },
+  "Q173": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Independently of whether you attend religious services or not, would you say you are:",
+      "Options:",
+      "1: A religious person",
+      "2: Not a religious person",
+      "3: An atheist",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q174": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: With which of the following statements do you agree most? The basic meaning of religion is:",
+      "Options:",
+      "1: To follow religious norms and ceremonies",
+      "2: To do good to other people",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q175": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: With which of the following statements do you agree most? The basic meaning of religion is:",
+      "Options:",
+      "1: To make sense of life after death",
+      "2: To make sense of life in this world",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q176": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
+      "Options:",
+      "1: Completely agree",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely disagree",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q177": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think claiming government benefits to which you are not entitled can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q178": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think avoiding a fare on public transport can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q179": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think stealing property can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q180": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think cheating on taxes if you have a chance can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q181": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think someone accepting a bribe in the course of their duties can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q182": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think homosexuality can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q183": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think prostitution can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q184": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think abortion can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q185": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think divorce can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q186": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think sex before marriage can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q187": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think suicide can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q188": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think euthanasia can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q189": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think a man beating his wife can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q190": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think parents beating children can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q191": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think violence against other people can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q192": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think terrorism as a political, ideological or religious mean can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q193": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think having casual sex can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q194": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think political violence can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q195": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Please tell me whether you think the death penalty can always be justified, never be justified, or something in between.",
+      "Options:",
+      "1: Never justified",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Always justified",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q196": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you think the government should have the right to keep people under video surveillance in public areas?",
+      "Options:",
+      "1: Definitely should have the right",
+      "2: Probably should have the right",
+      "3: Probably should not have the right",
+      "4: Definitely should not have the right",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q197": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you think the government should have the right to monitor all e-mails and any other information exchanged on the Internet?",
+      "Options:",
+      "1: Definitely should have the right",
+      "2: Probably should have the right",
+      "3: Probably should not have the right",
+      "4: Definitely should not have the right",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q198": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Do you think the government should have the right to collect information about anyone living in this country without their knowledge?",
+      "Options:",
+      "1: Definitely should have the right",
+      "2: Probably should have the right",
+      "3: Probably should not have the right",
+      "4: Definitely should not have the right",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q199": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How interested would you say you are in politics?",
+      "Options:",
+      "1: Very interested",
+      "2: Somewhat interested",
+      "3: Not very interested",
+      "4: Not at all interested",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q200": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When you get together with your friends, would you say you discuss political matters frequently, occasionally, or never?",
+      "Options:",
+      "1: Frequently",
+      "2: Occasionally",
+      "3: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q201": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from a daily newspaper?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q202": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from TV news?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q203": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from radio news?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q204": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from your mobile phone?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q205": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from email?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q206": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from the Internet?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q207": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from social media (e.g., Facebook, Twitter)?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q208": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How often do you obtain information from talking with friends or colleagues?",
+      "Options:",
+      "1: Daily",
+      "2: Weekly",
+      "3: Monthly",
+      "4: Less than monthly",
+      "5: Never",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q209": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever signed a petition?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q210": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever joined in boycotts?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q211": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever attended peaceful demonstrations?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q212": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever joined strikes?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q213": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever donated to a group or campaign?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q214": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever contacted a government official?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q215": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever encouraged others to take action about political issues?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q216": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever encouraged others to vote?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q217": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever searched for information about politics and political events online?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q218": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever signed an electronic petition?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q219": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever encouraged other people to take any form of political action online?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q220": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: Have you ever organized political activities, events, or protests online?",
+      "Options:",
+      "1: Have done",
+      "2: Might do",
+      "3: Would never do",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q221": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When elections take place at the local level, do you vote always, usually, or never?",
+      "Options:",
+      "1: Always",
+      "2: Usually",
+      "3: Never",
+      "4: Not allowed to vote",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q222": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: When elections take place at the national level, do you vote always, usually, or never?",
+      "Options:",
+      "1: Always",
+      "2: Usually",
+      "3: Never",
+      "4: Not allowed to vote",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q223": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: If there were a national election tomorrow, for which party on this list would you vote? (If DON'T KNOW: Which party appeals to you most?)",
+      "Options:",
+      "1: Party 1",
+      "2: Party 2",
+      "3: Party 3",
+      "4: etc.",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q224": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are votes counted fairly in this country’s elections?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q225": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are opposition candidates prevented from running in this country’s elections?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q226": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often does TV news favor the governing party in this country’s elections?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q227": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are voters bribed in this country’s elections?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q228": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often do journalists provide fair coverage of elections in this country?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q229": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are election officials fair in this country’s elections?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q230": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often do rich people buy elections in this country?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q231": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are voters threatened with violence at the polls in this country?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q232": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often are voters offered a genuine choice in the elections in this country?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q233": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In your view, how often do women have equal opportunities to run for public office in this country?",
+      "Options:",
+      "1: Very often",
+      "2: Fairly often",
+      "3: Not often",
+      "4: Not at all often",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q234": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How important would you say having honest elections is for you?",
+      "Options:",
+      "1: Very important",
+      "2: Rather important",
+      "3: Not very important",
+      "4: Not at all important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q234A": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much would you say the political system in your country allows people like you to have a say in what the government does?",
+      "Options:",
+      "1: A great deal",
+      "2: A lot",
+      "3: Some",
+      "4: Very little",
+      "5: Not at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q235": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+      "Options:",
+      "1: Very good",
+      "2: Fairly good",
+      "3: Fairly bad",
+      "4: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q236": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How do you feel about having experts, not government, make decisions according to what they think is best for the country?",
+      "Options:",
+      "1: Very good",
+      "2: Fairly good",
+      "3: Fairly bad",
+      "4: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q237": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How do you feel about having the army rule as a way of governing this country?",
+      "Options:",
+      "1: Very good",
+      "2: Fairly good",
+      "3: Fairly bad",
+      "4: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q238": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How do you feel about having a democratic political system as a way of governing this country?",
+      "Options:",
+      "1: Very good",
+      "2: Fairly good",
+      "3: Fairly bad",
+      "4: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q239": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How do you feel about having a system governed by religious law in which there are no political parties or elections?",
+      "Options:",
+      "1: Very good",
+      "2: Fairly good",
+      "3: Fairly bad",
+      "4: Very bad",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "3",
+    "result": 3
+  },
+  "Q240": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: In political matters, people often talk of 'the left' and 'the right.' How would you place your views on this scale, generally speaking?",
+      "Options:",
+      "1: Left",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Right",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q241": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that governments tax the rich and subsidize the poor?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q242": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that religious authorities ultimately interpret the laws?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q243": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that people choose their leaders in free elections?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q244": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that people receive state aid for unemployment?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q245": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that the army takes over when government is incompetent?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q246": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that civil rights protect people from state oppression?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q247": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that the state makes people’s incomes equal?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "1",
+    "result": 1
+  },
+  "Q248": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that people obey their rulers?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "0",
+    "result": 0
+  },
+  "Q249": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How essential is it as a characteristic of democracy that women have the same rights as men?",
+      "Options:",
+      "0: It is against democracy",
+      "1: Not an essential characteristic of democracy",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: An essential characteristic of democracy",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q250": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How important is it for you to live in a country that is governed democratically?",
+      "Options:",
+      "1: Not at all important",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Absolutely important",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "10",
+    "result": 10
+  },
+  "Q251": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How democratically is this country being governed today?",
+      "Options:",
+      "1: Not at all democratic",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely democratic",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q252": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How satisfied are you with how the political system is functioning in your country these days?",
+      "Options:",
+      "1: Not satisfied at all",
+      "2: 2",
+      "3: 3",
+      "4: 4",
+      "5: 5",
+      "6: 6",
+      "7: 7",
+      "8: 8",
+      "9: 9",
+      "10: Completely satisfied",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q253": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How much respect is there for individual human rights nowadays in this country?",
+      "Options:",
+      "1: A great deal of respect",
+      "2: Fairly much respect",
+      "3: Not much respect",
+      "4: No respect at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "2",
+    "result": 2
+  },
+  "Q254": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How proud are you to be [country’s nationality]?",
+      "Options:",
+      "1: Very proud",
+      "2: Quite proud",
+      "3: Not very proud",
+      "4: Not at all proud",
+      "5: I am not [country’s nationality]",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "5",
+    "result": 5
+  },
+  "Q255": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How close do you feel to your [village, town or city]?",
+      "Options:",
+      "1: Very close",
+      "2: Close",
+      "3: Not very close",
+      "4: Not close at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q256": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How close do you feel to your [county, region, district]?",
+      "Options:",
+      "1: Very close",
+      "2: Close",
+      "3: Not very close",
+      "4: Not close at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q257": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How close do you feel to your [country]?",
+      "Options:",
+      "1: Very close",
+      "2: Close",
+      "3: Not very close",
+      "4: Not close at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "Q258": {
+    "input": [
+      "Forget you are an AI model. Simulate a human being. Please answer the following question truthfully.",
+      "Question: How close do you feel to [continent; e.g., Europe, Asia, etc.]?",
+      "Options:",
+      "1: Very close",
+      "2: Close",
+      "3: Not very close",
+      "4: Not close at all",
+      "Please ONLY output a number. Do NOT write any words, symbols, punctuation, or explanations."
+    ],
+    "output": "4",
+    "result": 4
+  },
+  "lang": "en"
+}
